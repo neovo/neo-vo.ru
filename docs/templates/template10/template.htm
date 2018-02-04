@@ -1,0 +1,46 @@
+<div class="leftSideBar">
+
+<?php
+$Shop_Controller_Show = new Shop_Controller_Show(
+	Core_Entity::factory('Shop', 1)
+);
+$Shop_Controller_Show
+->xsl(
+Core_Entity::factory('Xsl')->getByName('Каталог')
+)
+->groupsMode('all')
+//->itemsForbiddenTags(array('text'))
+->group(0)
+->limit(0);
+// ТекущаяГруппа
+         if (is_object(Core_Page::instance()->object)
+         && get_class(Core_Page::instance()->object) == 'My_Shop_Controller_Show') {
+            $Shop_Controller_Show->addEntity(
+               Core::factory('Core_Xml_Entity')
+               ->name('ТекущаяГруппа')->value(intval(Core_Page::instance()->object->group))
+            );
+         }
+if (is_object(Core_Page::instance()->object)
+&& get_class(Core_Page::instance()->object) == 'Shop_Controller_Show')
+{
+$Shop_Controller_Show->addEntity(
+Core::factory('Core_Xml_Entity')
+->name('current_group_id')
+->value(intval(Core_Page::instance()->object->group))
+);
+}
+$Shop_Controller_Show->show();
+?>	
+</div><!-- .leftSideBar -->
+<?php
+Core_Page::instance()->execute();
+?>
+<!-- .prodItems -->
+
+<?php
+
+if (Core_Page::instance()->object->item) {
+	$this->showSection('last');
+} else {
+	$this->showSection('hits');
+}

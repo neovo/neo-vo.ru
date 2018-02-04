@@ -1,0 +1,106 @@
+.cecutient-block {
+	margin: 19px 0 0 -10px;
+	width: 350px;
+	box-sizing: border-box;
+	font-size: 10pt;
+	float: left;
+}
+.cecutient-block .cecutient-block-content {
+	float: left;
+	width: 75%;
+}
+.cecutient-block .cecutient-block-content-link span {
+	color: #000;
+	text-decoration: underline;
+	cursor: pointer;
+}
+.cecutient-block .cecutient-block-content-fontsize {
+	float: left;
+	margin-right: 10px;
+}
+.cecutient-block .cecutient-block-content-fontsize span {
+	margin-right: 10px;
+	color: #000;
+	text-decoration: underline;
+	cursor: pointer;
+}
+.cecutient-block .cecutient-block-content-fontsize .size-small {
+	font-size: 15px;
+}
+.cecutient-block .cecutient-block-content-fontsize .size-middle {
+	font-size: 20px;
+}
+.cecutient-block .cecutient-block-content-fontsize .size-large {
+	font-size: 25px;
+}
+.cecutient-block .cecutient-block-content-fontsize .fontsize-current {
+	color: #ff4444;
+}
+.cecutient-block .cecutient-block-content-background {
+	margin-top: 13px;
+	display: none;
+}
+.cecutient-block .cecutient-block-content-background > span {
+	border: 1px solid #ccc;
+	padding: 8px;
+	margin-right: 5px;
+	cursor: pointer;
+	font-size: 85%;
+}
+.cecutient-block .cecutient-block-content-background .background-regular {
+	background-color: #fff;
+	color: #000;
+}
+.cecutient-block .cecutient-block-content-background .background-contrast {
+	background-color: #000;
+	color: #fff;
+}
+.cecutient-block .cecutient-block-content-background .background-current {
+	border: 2px solid #516fad;
+}
+.cecutient-block .cecutient-hidden {
+	display: none;
+}
+
+.cecutient.background-contrast .contrast {
+	background: #000 !important;
+}
+.cecutient.background-contrast .contrast,
+.cecutient.background-contrast .contrast * {
+	color: #fff !important;
+}
+
+.cecutient.background-contrast .contrast .navbar-default {
+	background-color: #000 !important;
+}
+.cecutient.background-contrast .contrast .navbar-default .navbar-nav > li > a {
+	color: #fff !important;
+}
+
+.cecutient.background-contrast img {
+	-webkit-filter: grayscale(1);
+	filter: grayscale(1);
+}
+
+.cecutient.fontsize-small {
+}
+.cecutient.fontsize-middle {
+}
+.cecutient.fontsize-large {
+}
+
+.cecutient.fontsize-middle .prodItems .item .itemName {
+	font-size: 23px;
+	line-height: 24px;
+	height: 90px;
+}
+.cecutient.fontsize-large .prodItems .item .itemName {
+	font-size: 26px;
+	line-height: 28px;
+	height: 120px;
+}
+
+.cecutient .sli {
+	height: 0 !important;
+	border-bottom: solid 2px #555;
+}

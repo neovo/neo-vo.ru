@@ -1,0 +1,274 @@
+"2018-01-10 00:03:52",undefined,"Incorrect authentication data",4,-,http://neo-vo.ru/admin/index.php,87.97.168.32
+"2018-01-10 00:33:26",undefined,"Access temporarily unavailable. Please try again in 871 seconds",0,-,http://neo-vo.ru/admin/index.php,87.97.168.32
+"2018-01-10 01:03:01",undefined,"Incorrect authentication data",4,-,http://neo-vo.ru/admin/index.php,87.97.168.32
+"2018-01-10 07:10:19",admin,"Вход в систему управления",4,-,http://neo-vo.ru/admin/index.php,91.144.170.36
+"2018-01-10 07:10:30",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php,91.144.170.36
+"2018-01-10 07:10:43",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.144.170.36
+"2018-01-10 07:34:44",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?hostcms[action]=edit&shop_id=1&shop_group_id=622&hostcms[checked][1][281]=1&hostcmsMode=blank,91.144.170.36
+"2018-01-10 07:34:47",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,91.144.170.36
+"2018-01-10 07:34:47",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,91.144.170.36
+"2018-01-10 07:36:39",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=622&hostcmsMode=blank&hostcms[checked][1][281]=1,91.144.170.36
+"2018-01-10 07:37:17",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=622&hostcmsMode=blank&hostcms[checked][1][281]=1,91.144.170.36
+"2018-01-10 07:37:37",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=622&hostcmsMode=blank&hostcms[checked][1][281]=1,91.144.170.36
+"2018-01-10 07:38:06",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=622&hostcmsMode=blank&hostcms[checked][1][281]=1,91.144.170.36
+"2018-01-10 07:38:21",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=622&hostcmsMode=blank&hostcms[checked][1][281]=1,91.144.170.36
+"2018-01-10 07:38:29",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=622&hostcmsMode=blank&hostcms[checked][1][281]=1,91.144.170.36
+"2018-01-10 07:38:30",admin,"Выполнено действие ""Редактировать"", формы ""Интернет-магазин, товары и группы""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=622&hostcmsMode=blank&hostcms[checked][1][281]=1,91.144.170.36
+"2018-01-10 07:42:53",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?hostcms[action]=edit&shop_id=1&shop_group_id=622&hostcms[checked][1][281]=1&hostcmsMode=blank,91.144.170.36
+"2018-01-10 07:42:55",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,91.144.170.36
+"2018-01-10 07:42:56",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,91.144.170.36
+"2018-01-10 07:45:16",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=622&hostcmsMode=blank&hostcms[checked][1][281]=1,91.144.170.36
+"2018-01-10 07:53:14",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?hostcms[action]=edit&shop_id=1&shop_group_id=607&hostcms[checked][1][217]=1&hostcmsMode=blank,91.144.170.36
+"2018-01-10 07:53:16",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,91.144.170.36
+"2018-01-10 07:53:16",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,91.144.170.36
+"2018-01-10 07:55:50",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=607&hostcmsMode=blank&hostcms[checked][1][217]=1,91.144.170.36
+"2018-01-10 07:56:39",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=607&hostcmsMode=blank&hostcms[checked][1][217]=1,91.144.170.36
+"2018-01-10 07:57:12",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=607&hostcmsMode=blank&hostcms[checked][1][217]=1,91.144.170.36
+"2018-01-10 07:58:49",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=607&hostcmsMode=blank&hostcms[checked][1][217]=1,91.144.170.36
+"2018-01-10 07:59:00",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=607&hostcmsMode=blank&hostcms[checked][1][217]=1,91.144.170.36
+"2018-01-10 08:00:23",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=607&hostcmsMode=blank&hostcms[checked][1][217]=1,91.144.170.36
+"2018-01-10 08:00:38",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=607&hostcmsMode=blank&hostcms[checked][1][217]=1,91.144.170.36
+"2018-01-10 08:00:50",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=607&hostcmsMode=blank&hostcms[checked][1][217]=1,91.144.170.36
+"2018-01-10 08:00:50",admin,"Выполнено действие ""Редактировать"", формы ""Интернет-магазин, товары и группы""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=607&hostcmsMode=blank&hostcms[checked][1][217]=1,91.144.170.36
+"2018-01-10 08:27:03",undefined,"Incorrect authentication data",4,-,http://neo-vo.ru/admin/index.php,84.1.243.113
+"2018-01-10 10:08:00",undefined,"Incorrect authentication data",4,-,http://neo-vo.ru/admin/index.php,84.1.243.113
+"2018-01-10 10:58:41",admin,"Вход в систему управления",4,-,http://neo-vo.ru/admin/index.php,195.140.183.190
+"2018-01-10 10:58:53",admin,"Доступ к модулю ""informationsystem"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/informationsystem/index.php,195.140.183.190
+"2018-01-10 10:59:24",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php,195.140.183.190
+"2018-01-10 10:59:27",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?parent_id=89,195.140.183.190
+"2018-01-10 10:59:29",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php,195.140.183.190
+"2018-01-10 10:59:32",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php,195.140.183.190
+"2018-01-10 10:59:33",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?lib_id=0,195.140.183.190
+"2018-01-10 10:59:42",admin,"Доступ к модулю ""document"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/document/index.php,195.140.183.190
+"2018-01-10 10:59:44",admin,"Доступ к модулю ""document"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/document/index.php,195.140.183.190
+"2018-01-10 10:59:45",admin,"Доступ к модулю ""document"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/document/,195.140.183.190
+"2018-01-10 10:59:53",admin,"Доступ к модулю ""document"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/document/index.php?hostcms[checked][1][9]=1,195.140.183.190
+"2018-01-10 12:00:27",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php,195.140.183.190
+"2018-01-10 12:00:30",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php,195.140.183.190
+"2018-01-10 12:02:12",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?hostcms[checked][1][1]=1,195.140.183.190
+"2018-01-10 12:02:12",admin,"Выполнено действие ""Редактировать"", формы ""Макеты""",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?hostcms[checked][1][1]=1,195.140.183.190
+"2018-01-10 13:11:25",undefined,"Неверные данные для аутентификации",4,-,http://neo-vo.ru/admin/index.php,91.197.67.92
+"2018-01-10 14:17:04",admin,"Вход в систему управления",4,-,http://neo-vo.ru/admin/index.php,91.197.67.92
+"2018-01-10 14:48:20",admin,"Доступ к модулю ""admin_form"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/admin_form/index.php,91.197.67.92
+"2018-01-10 14:48:40",admin,"Доступ к модулю ""module"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/module/index.php,91.197.67.92
+"2018-01-10 14:48:48",admin,"Доступ к модулю ""module"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/module/index.php,91.197.67.92
+"2018-01-10 14:48:56",admin,"Доступ к модулю ""admin_form"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/admin_form/index.php,91.197.67.92
+"2018-01-10 14:48:59",admin,"Доступ к модулю ""site"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/site/index.php,91.197.67.92
+"2018-01-10 14:49:04",admin,"Доступ к модулю ""admin_form"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/admin_form/index.php,91.197.67.92
+"2018-01-10 14:49:07",admin,"Доступ к модулю ""admin_form"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/admin_form/index.php,91.197.67.92
+"2018-01-10 14:49:11",admin,"Доступ к модулю ""admin_form"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/admin_form/index.php,91.197.67.92
+"2018-01-10 14:57:51",admin,"Доступ к модулю ""site"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/site/index.php,91.197.67.92
+"2018-01-10 14:57:53",admin,"Доступ к модулю ""admin_form"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/admin_form/index.php,91.197.67.92
+"2018-01-10 14:58:24",admin,"Доступ к модулю ""module"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/module/index.php,91.197.67.92
+"2018-01-10 14:58:32",admin,"Доступ к модулю ""module"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/module/index.php?hostcms[checked][0][82]=1,91.197.67.92
+"2018-01-10 14:58:32",admin,"Выполнено действие ""Изменить активность модуля"", формы ""Модули""",1,neo-vo.ru,http://neo-vo.ru/admin/module/index.php?hostcms[checked][0][82]=1,91.197.67.92
+"2018-01-10 14:58:40",admin,"Доступ к модулю ""module"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/module/index.php?hostcms[checked][0][82]=1,91.197.67.92
+"2018-01-10 14:58:40",admin,"Выполнено действие ""Изменить активность модуля"", формы ""Модули""",1,neo-vo.ru,http://neo-vo.ru/admin/module/index.php?hostcms[checked][0][82]=1,91.197.67.92
+"2018-01-10 14:58:44",admin,"Доступ к модулю ""module"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/module/index.php,91.197.67.92
+"2018-01-10 14:58:51",admin,"Доступ к модулю ""module"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/module/index.php?hostcms[checked][0][82]=1,91.197.67.92
+"2018-01-10 14:58:51",admin,"Выполнено действие ""Изменить активность модуля"", формы ""Модули""",1,neo-vo.ru,http://neo-vo.ru/admin/module/index.php?hostcms[checked][0][82]=1,91.197.67.92
+"2018-01-10 14:58:59",admin,"Доступ к модулю ""module"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/module/index.php,91.197.67.92
+"2018-01-10 14:58:59",admin,"Выполнено действие ""Применить"", формы ""Модули""",1,neo-vo.ru,http://neo-vo.ru/admin/module/index.php,91.197.67.92
+"2018-01-10 14:59:20",admin,"Доступ к модулю ""module"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/module/index.php?hostcms[checked][0][82]=1,91.197.67.92
+"2018-01-10 14:59:20",admin,"Выполнено действие ""Изменить индексацию модуля"", формы ""Модули""",1,neo-vo.ru,http://neo-vo.ru/admin/module/index.php?hostcms[checked][0][82]=1,91.197.67.92
+"2018-01-10 14:59:28",admin,"Доступ к модулю ""module"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/module/index.php,91.197.67.92
+"2018-01-10 14:59:37",admin,"Доступ к модулю ""module"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/module/index.php?hostcms[checked][0][82]=1,91.197.67.92
+"2018-01-10 14:59:37",admin,"Выполнено действие ""Изменить индексацию модуля"", формы ""Модули""",1,neo-vo.ru,http://neo-vo.ru/admin/module/index.php?hostcms[checked][0][82]=1,91.197.67.92
+"2018-01-10 14:59:38",admin,"Доступ к модулю ""module"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/module/index.php,91.197.67.92
+"2018-01-10 15:01:34",admin,"Доступ к модулю ""market"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/market/index.php,91.197.67.92
+"2018-01-10 15:02:32",admin,"Доступ к модулю ""market"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/market/index.php?category_id=15,91.197.67.92
+"2018-01-10 15:03:26",admin,"Доступ к модулю ""market"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/market/index.php?category_id=33,91.197.67.92
+"2018-01-10 15:03:40",admin,"Доступ к модулю ""market"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/market/index.php?install=2403&category_id=33&current=1,91.197.67.92
+"2018-01-10 15:06:22",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.197.67.92
+"2018-01-10 15:06:24",admin,"Доступ к модулю ""document"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/document/index.php,91.197.67.92
+"2018-01-10 15:06:34",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php,91.197.67.92
+"2018-01-10 15:06:37",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-10 15:07:29",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=10,91.197.67.92
+"2018-01-10 15:07:32",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-10 15:07:48",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/index.php?template_id=10&template_dir_id=0,91.197.67.92
+"2018-01-10 15:08:03",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/index.php?template_id=10&template_dir_id=0,91.197.67.92
+"2018-01-10 15:08:30",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/index.php?template_id=10&template_dir_id=0&hostcms[checked][0][0]=1,91.197.67.92
+"2018-01-10 15:08:34",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/index.php?template_id=10&template_dir_id=0&hostcms[checked][0][0]=1,91.197.67.92
+"2018-01-10 15:08:34",admin,"Выполнено действие ""Редактировать"", формы ""Секции макета""",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/index.php?template_id=10&template_dir_id=0&hostcms[checked][0][0]=1,91.197.67.92
+"2018-01-10 15:08:39",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=1,91.197.67.92
+"2018-01-10 15:08:40",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=1,91.197.67.92
+"2018-01-10 15:08:41",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?lib_id=0,91.197.67.92
+"2018-01-10 15:08:53",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?lib_dir_id=29,91.197.67.92
+"2018-01-10 15:08:58",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?lib_id=46,91.197.67.92
+"2018-01-10 15:08:58",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?xsl_dir_id=24&lib_property_id=599,91.197.67.92
+"2018-01-10 15:09:17",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=1&hostcms[checked][0][0]=1,91.197.67.92
+"2018-01-10 15:09:21",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=1&hostcms[checked][0][0]=1,91.197.67.92
+"2018-01-10 15:09:21",admin,"Выполнено действие ""Редактировать"", формы ""Виждеты секции макета""",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=1&hostcms[checked][0][0]=1,91.197.67.92
+"2018-01-10 15:09:29",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php,91.197.67.92
+"2018-01-10 15:09:35",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-10 15:09:49",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=10,91.197.67.92
+"2018-01-10 15:09:55",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-10 15:09:57",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-10 15:10:20",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-10 15:10:23",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=9,91.197.67.92
+"2018-01-10 15:10:25",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-10 15:10:26",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-10 15:10:44",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-10 15:10:47",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-10 15:16:59",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php,91.197.67.92
+"2018-01-10 15:17:02",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-10 15:17:03",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=10,91.197.67.92
+"2018-01-10 15:17:05",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-10 15:17:07",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/index.php?template_id=10&template_dir_id=0,91.197.67.92
+"2018-01-10 15:17:13",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/index.php?template_id=10&template_dir_id=0,91.197.67.92
+"2018-01-10 15:17:19",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/index.php?template_id=10&template_dir_id=0&hostcms[checked][0][1]=1,91.197.67.92
+"2018-01-10 15:17:41",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1&hostcms[checked][1][10]=1,91.197.67.92
+"2018-01-10 15:17:41",admin,"Выполнено действие ""Редактировать"", формы ""Макеты""",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1&hostcms[checked][1][10]=1,91.197.67.92
+"2018-01-10 15:18:57",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=10,91.197.67.92
+"2018-01-10 15:18:59",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-10 15:21:41",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.197.67.92
+"2018-01-10 15:21:44",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:21:52",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.197.67.92
+"2018-01-10 15:21:58",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.197.67.92
+"2018-01-10 15:22:00",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/,91.197.67.92
+"2018-01-10 15:22:05",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.197.67.92
+"2018-01-10 15:22:09",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:22:16",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:22:32",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:22:52",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:23:01",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:23:53",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0&hostcms[checked][1][0]=1,91.197.67.92
+"2018-01-10 15:23:57",admin,"Выполнено действие ""Редактировать"", формы ""Дополнительные свойства""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0&hostcms[checked][1][0]=1,91.197.67.92
+"2018-01-10 15:24:13",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.197.67.92
+"2018-01-10 15:24:14",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:24:16",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=640,91.197.67.92
+"2018-01-10 15:24:28",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:24:44",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=634,91.197.67.92
+"2018-01-10 15:24:55",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=634,91.197.67.92
+"2018-01-10 15:24:57",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/,91.197.67.92
+"2018-01-10 15:24:57",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/,91.197.67.92
+"2018-01-10 15:26:57",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=634,91.197.67.92
+"2018-01-10 15:27:02",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.197.67.92
+"2018-01-10 15:27:05",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:27:09",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:27:13",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:27:32",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0&hostcms[checked][1][70]=1,91.197.67.92
+"2018-01-10 15:27:42",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0&hostcms[checked][1][70]=1,91.197.67.92
+"2018-01-10 15:27:49",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0&hostcms[checked][1][70]=1,91.197.67.92
+"2018-01-10 15:27:49",admin,"Выполнено действие ""Редактировать"", формы ""Дополнительные свойства""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0&hostcms[checked][1][70]=1,91.197.67.92
+"2018-01-10 15:28:04",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:28:07",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.197.67.92
+"2018-01-10 15:28:09",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:28:13",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/group/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:28:24",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/group/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:28:28",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/group/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:28:29",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:28:35",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/for/group/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:28:39",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/for/group/index.php?hostcms[checked][1][70]=1&shop_id=1&shop_group_id=0&property_id=70&property_dir_id=0,91.197.67.92
+"2018-01-10 15:28:39",admin,"Выполнено действие ""Изменить доступ"", формы ""Свойства товаров, доступные для текущей группы товаров""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/for/group/index.php?hostcms[checked][1][70]=1&shop_id=1&shop_group_id=0&property_id=70&property_dir_id=0,91.197.67.92
+"2018-01-10 15:28:45",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/for/group/index.php?shop_id=1&shop_group_id=0&property_id=70&property_dir_id=0,91.197.67.92
+"2018-01-10 15:28:45",admin,"Выполнено действие ""Включить"", формы ""Свойства товаров, доступные для текущей группы товаров""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/for/group/index.php?shop_id=1&shop_group_id=0&property_id=70&property_dir_id=0,91.197.67.92
+"2018-01-10 15:28:51",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.197.67.92
+"2018-01-10 15:28:53",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:28:57",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=634,91.197.67.92
+"2018-01-10 15:29:04",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=634,91.197.67.92
+"2018-01-10 15:29:06",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,91.197.67.92
+"2018-01-10 15:29:06",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,91.197.67.92
+"2018-01-10 15:29:39",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.197.67.92
+"2018-01-10 15:29:42",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:29:45",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:29:47",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:29:55",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0&hostcms[checked][1][70]=1,91.197.67.92
+"2018-01-10 15:29:58",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:30:05",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=634,91.197.67.92
+"2018-01-10 15:30:11",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=634,91.197.67.92
+"2018-01-10 15:30:13",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,91.197.67.92
+"2018-01-10 15:30:13",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,91.197.67.92
+"2018-01-10 15:30:34",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=634,91.197.67.92
+"2018-01-10 15:30:39",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=634,91.197.67.92
+"2018-01-10 15:30:41",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,91.197.67.92
+"2018-01-10 15:30:42",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,91.197.67.92
+"2018-01-10 15:30:56",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/for/group/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:31:02",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/for/group/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:31:02",admin,"Выполнено действие ""Включить"", формы ""Свойства товаров, доступные для текущей группы товаров""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/for/group/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:31:09",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/for/group/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:31:10",admin,"Выполнено действие ""Включить всем"", формы ""Свойства товаров, доступные для текущей группы товаров""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/for/group/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:31:16",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.197.67.92
+"2018-01-10 15:31:17",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:31:21",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=640,91.197.67.92
+"2018-01-10 15:31:24",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:31:25",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:31:27",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,91.197.67.92
+"2018-01-10 15:31:30",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:31:34",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=634,91.197.67.92
+"2018-01-10 15:31:40",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=634,91.197.67.92
+"2018-01-10 15:31:41",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,91.197.67.92
+"2018-01-10 15:31:43",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,91.197.67.92
+"2018-01-10 15:31:54",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=634&hostcms[checked][1][360]=1,91.197.67.92
+"2018-01-10 15:32:06",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.197.67.92
+"2018-01-10 15:32:08",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:32:11",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:32:19",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:32:37",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0&hostcms[checked][1][70]=1,91.197.67.92
+"2018-01-10 15:32:39",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.197.67.92
+"2018-01-10 15:32:41",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:32:43",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:32:49",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:33:16",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0&hostcms[checked][1][70]=1,91.197.67.92
+"2018-01-10 15:33:24",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0&hostcms[checked][1][70]=1,91.197.67.92
+"2018-01-10 15:33:24",admin,"Выполнено действие ""Редактировать"", формы ""Дополнительные свойства""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0&hostcms[checked][1][70]=1,91.197.67.92
+"2018-01-10 15:33:28",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:34:14",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0&hostcms[checked][1][0]=1,91.197.67.92
+"2018-01-10 15:34:21",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0&hostcms[checked][1][0]=1,91.197.67.92
+"2018-01-10 15:34:23",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0&hostcms[checked][1][0]=1,91.197.67.92
+"2018-01-10 15:34:24",admin,"Выполнено действие ""Редактировать"", формы ""Дополнительные свойства""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0&hostcms[checked][1][0]=1,91.197.67.92
+"2018-01-10 15:34:29",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:34:33",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0&hostcms[checked][1][70]=1,91.197.67.92
+"2018-01-10 15:34:34",admin,"Выполнено действие ""Редактировать"", формы ""Дополнительные свойства""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0&hostcms[checked][1][70]=1,91.197.67.92
+"2018-01-10 15:34:42",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.197.67.92
+"2018-01-10 15:34:44",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:34:48",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=629,91.197.67.92
+"2018-01-10 15:34:52",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:34:58",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/for/group/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:35:00",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/for/group/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:35:01",admin,"Выполнено действие ""Включить всем"", формы ""Свойства товаров, доступные для текущей группы товаров""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/for/group/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:35:03",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/for/group/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:35:03",admin,"Выполнено действие ""Включить"", формы ""Свойства товаров, доступные для текущей группы товаров""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/for/group/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:35:06",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.197.67.92
+"2018-01-10 15:35:08",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:35:11",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=609,91.197.67.92
+"2018-01-10 15:35:19",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=609,91.197.67.92
+"2018-01-10 15:35:21",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,91.197.67.92
+"2018-01-10 15:35:22",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,91.197.67.92
+"2018-01-10 15:35:31",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=609,91.197.67.92
+"2018-01-10 15:35:37",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=609,91.197.67.92
+"2018-01-10 15:35:39",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,91.197.67.92
+"2018-01-10 15:35:39",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,91.197.67.92
+"2018-01-10 15:35:43",admin,"Доступ к модулю ""informationsystem"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/informationsystem/index.php,91.197.67.92
+"2018-01-10 15:35:50",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.197.67.92
+"2018-01-10 15:35:51",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:36:01",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:36:02",admin,"Выполнено действие ""Применить"", формы ""Интернет-магазин, товары и группы""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:36:07",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:36:11",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:36:12",admin,"Выполнено действие ""Применить"", формы ""Интернет-магазин, товары и группы""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:36:21",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/group/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:36:23",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:36:23",admin,"Выполнено действие ""Применить"", формы ""Интернет-магазин, товары и группы""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:36:26",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/for/group/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:36:39",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/for/group/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:36:41",admin,"Выполнено действие ""Включить всем"", формы ""Свойства товаров, доступные для текущей группы товаров""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/for/group/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-10 15:36:53",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.197.67.92
+"2018-01-10 15:36:55",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:37:02",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-10 15:37:05",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=640,91.197.67.92
+"2018-01-10 15:37:07",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=636,91.197.67.92
+"2018-01-10 15:37:10",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=636,91.197.67.92
+"2018-01-10 15:37:12",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,91.197.67.92
+"2018-01-10 15:37:12",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,91.197.67.92
+"2018-01-10 15:37:18",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=636&hostcms[checked][1][370]=1,91.197.67.92
+"2018-01-10 15:37:21",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=636&hostcms[checked][1][370]=1,91.197.67.92
+"2018-01-10 15:37:22",admin,"Выполнено действие ""Редактировать"", формы ""Интернет-магазин, товары и группы""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=636&hostcms[checked][1][370]=1,91.197.67.92
+"2018-01-10 15:37:27",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=636,91.197.67.92
+"2018-01-10 15:37:29",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,91.197.67.92
+"2018-01-10 15:37:29",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,91.197.67.92
+"2018-01-10 15:37:32",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=636&hostcms[checked][1][366]=1,91.197.67.92
+"2018-01-10 15:37:33",admin,"Выполнено действие ""Редактировать"", формы ""Интернет-магазин, товары и группы""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=636&hostcms[checked][1][366]=1,91.197.67.92
+"2018-01-10 17:54:54",undefined,"Incorrect authentication data",4,-,http://neo-vo.ru/admin/index.php,84.1.243.113
+"2018-01-10 21:48:10",undefined,"Incorrect authentication data",4,-,http://neo-vo.ru/admin/index.php,84.1.243.113
+"2018-01-10 22:45:02",undefined,"Incorrect authentication data",4,-,http://neo-vo.ru/admin/index.php,84.1.243.113

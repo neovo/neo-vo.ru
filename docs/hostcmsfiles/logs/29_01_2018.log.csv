@@ -1,0 +1,714 @@
+"2018-01-29 07:43:26",admin,"Вход в систему управления",4,-,http://neo-vo.ru/admin/index.php,195.140.183.190
+"2018-01-29 07:43:31",admin,"Доступ к модулю ""informationsystem"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/informationsystem/index.php,195.140.183.190
+"2018-01-29 07:43:36",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,195.140.183.190
+"2018-01-29 07:44:14",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,195.140.183.190
+"2018-01-29 07:44:20",admin,"Доступ к модулю ""informationsystem"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/informationsystem/index.php,195.140.183.190
+"2018-01-29 07:44:21",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,195.140.183.190
+"2018-01-29 07:44:22",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,195.140.183.190
+"2018-01-29 07:44:25",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=595,195.140.183.190
+"2018-01-29 07:45:03",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=630,195.140.183.190
+"2018-01-29 07:45:09",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?hostcms[action]=edit&hostcms[operation]=&hostcms[current]=1&hostcms[sortingfield]=240&hostcms[sortingdirection]=0&hostcms[window]=id_content&shop_id=1&shop_group_id=630&hostcms[checked][1][371]=1,195.140.183.190
+"2018-01-29 07:45:10",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?hostcms[action]=edit&hostcms[operation]=&hostcms[current]=1&hostcms[sortingfield]=240&hostcms[sortingdirection]=0&hostcms[window]=id_content&shop_id=1&shop_group_id=630&hostcms[checked][1][170]=1,195.140.183.190
+"2018-01-29 07:45:12",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,195.140.183.190
+"2018-01-29 07:45:13",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,195.140.183.190
+"2018-01-29 07:45:13",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,195.140.183.190
+"2018-01-29 07:45:14",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,195.140.183.190
+"2018-01-29 07:45:32",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=630&hostcms[checked][1][371]=1,195.140.183.190
+"2018-01-29 07:45:42",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=630&hostcms[checked][1][170]=1,195.140.183.190
+"2018-01-29 07:47:52",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=630&hostcms[checked][1][371]=1,195.140.183.190
+"2018-01-29 07:47:52",admin,"Выполнено действие ""Редактировать"", формы ""Интернет-магазин, товары и группы""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=630&hostcms[checked][1][371]=1,195.140.183.190
+"2018-01-29 07:47:54",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=630&hostcms[checked][1][170]=1,195.140.183.190
+"2018-01-29 07:47:54",admin,"Выполнено действие ""Редактировать"", формы ""Интернет-магазин, товары и группы""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=630&hostcms[checked][1][170]=1,195.140.183.190
+"2018-01-29 10:19:02",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,195.140.183.190
+"2018-01-29 10:19:04",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,195.140.183.190
+"2018-01-29 10:19:24",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=595,195.140.183.190
+"2018-01-29 10:19:27",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=630,195.140.183.190
+"2018-01-29 10:19:30",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?hostcms[action]=edit&hostcms[operation]=&hostcms[current]=1&hostcms[sortingfield]=240&hostcms[sortingdirection]=0&hostcms[window]=id_content&shop_id=1&shop_group_id=630&hostcms[checked][1][371]=1,195.140.183.190
+"2018-01-29 10:19:32",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?hostcms[action]=edit&hostcms[operation]=&hostcms[current]=1&hostcms[sortingfield]=240&hostcms[sortingdirection]=0&hostcms[window]=id_content&shop_id=1&shop_group_id=630&hostcms[checked][1][170]=1,195.140.183.190
+"2018-01-29 10:19:33",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,195.140.183.190
+"2018-01-29 10:19:34",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,195.140.183.190
+"2018-01-29 10:19:35",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,195.140.183.190
+"2018-01-29 10:19:36",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/,195.140.183.190
+"2018-01-29 10:19:53",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=630&hostcms[checked][1][371]=1,195.140.183.190
+"2018-01-29 10:20:57",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=630&hostcms[checked][1][170]=1,195.140.183.190
+"2018-01-29 10:21:30",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=630&hostcms[checked][1][371]=1,195.140.183.190
+"2018-01-29 10:21:31",admin,"Выполнено действие ""Редактировать"", формы ""Интернет-магазин, товары и группы""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=630&hostcms[checked][1][371]=1,195.140.183.190
+"2018-01-29 10:21:34",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=630&hostcms[checked][1][170]=1,195.140.183.190
+"2018-01-29 10:21:35",admin,"Выполнено действие ""Редактировать"", формы ""Интернет-магазин, товары и группы""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=630&hostcms[checked][1][170]=1,195.140.183.190
+"2018-01-29 15:13:18",admin,"Вход в систему управления",4,-,http://neo-vo.ru/admin/index.php,91.197.67.92
+"2018-01-29 15:13:47",admin,"Доступ к модулю ""informationsystem"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/informationsystem/index.php,91.197.67.92
+"2018-01-29 15:13:50",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.197.67.92
+"2018-01-29 15:13:52",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-29 15:13:56",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php,91.197.67.92
+"2018-01-29 15:13:58",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=28,91.197.67.92
+"2018-01-29 15:14:00",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=29,91.197.67.92
+"2018-01-29 15:14:03",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/property/index.php?lib_id=46&lib_dir_id=29,91.197.67.92
+"2018-01-29 15:14:06",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=29,91.197.67.92
+"2018-01-29 15:14:08",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=29,91.197.67.92
+"2018-01-29 15:18:24",admin,"Доступ к модулю ""admin_form"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/admin_form/index.php,91.197.67.92
+"2018-01-29 15:18:28",admin,"Доступ к модулю ""module"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/module/index.php,91.197.67.92
+"2018-01-29 15:18:35",admin,"Доступ к модулю ""trash"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/trash/index.php,91.197.67.92
+"2018-01-29 15:18:38",admin,"Доступ к модулю ""user"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/user/index.php,91.197.67.92
+"2018-01-29 15:18:44",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php,91.197.67.92
+"2018-01-29 15:18:46",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=28,91.197.67.92
+"2018-01-29 15:18:48",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=29,91.197.67.92
+"2018-01-29 15:37:47",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php,91.197.67.92
+"2018-01-29 17:44:41",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.197.67.92
+"2018-01-29 17:44:43",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-29 17:44:46",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-29 17:44:50",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-29 17:45:28",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-29 17:45:35",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-29 17:45:35",admin,"Выполнено действие ""Удалить"", формы ""Дополнительные свойства""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-29 17:45:37",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-29 17:46:18",admin,"Доступ к модулю ""module"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/module/index.php,91.197.67.92
+"2018-01-29 17:47:24",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0&hostcms[checked][1][0]=1,91.197.67.92
+"2018-01-29 17:47:25",admin,"Выполнено действие ""Редактировать"", формы ""Дополнительные свойства""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0&hostcms[checked][1][0]=1,91.197.67.92
+"2018-01-29 17:47:31",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1,91.197.67.92
+"2018-01-29 17:47:36",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/for/group/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-29 17:47:40",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/for/group/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-29 17:47:40",admin,"Выполнено действие ""Включить всем"", формы ""Свойства товаров, доступные для текущей группы товаров""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/for/group/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-29 17:47:43",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.197.67.92
+"2018-01-29 17:47:45",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-29 17:47:48",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=633,91.197.67.92
+"2018-01-29 17:47:52",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=633,91.197.67.92
+"2018-01-29 17:47:55",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/,91.197.67.92
+"2018-01-29 17:47:56",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/,91.197.67.92
+"2018-01-29 17:47:59",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=633&hostcms[checked][1][346]=1,91.197.67.92
+"2018-01-29 17:48:03",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.197.67.92
+"2018-01-29 17:48:05",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-29 17:48:09",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-29 17:48:16",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php,91.197.67.92
+"2018-01-29 17:48:16",admin,"Выполнено действие ""Применить"", формы ""Дополнительные свойства""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php,91.197.67.92
+"2018-01-29 17:48:19",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.197.67.92
+"2018-01-29 17:48:21",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-29 17:48:24",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=654,91.197.67.92
+"2018-01-29 17:48:27",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=654,91.197.67.92
+"2018-01-29 17:48:28",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/,91.197.67.92
+"2018-01-29 17:48:28",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/,91.197.67.92
+"2018-01-29 17:48:31",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=654&hostcms[checked][1][505]=1,91.197.67.92
+"2018-01-29 17:48:32",admin,"Выполнено действие ""Редактировать"", формы ""Интернет-магазин, товары и группы""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=654&hostcms[checked][1][505]=1,91.197.67.92
+"2018-01-29 17:48:37",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1,91.197.67.92
+"2018-01-29 17:48:40",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=622,91.197.67.92
+"2018-01-29 17:48:43",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=622,91.197.67.92
+"2018-01-29 17:48:45",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/,91.197.67.92
+"2018-01-29 17:48:45",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/,91.197.67.92
+"2018-01-29 17:48:49",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=622&hostcms[checked][1][280]=1,91.197.67.92
+"2018-01-29 17:48:49",admin,"Выполнено действие ""Редактировать"", формы ""Интернет-магазин, товары и группы""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=622&hostcms[checked][1][280]=1,91.197.67.92
+"2018-01-29 17:48:51",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.197.67.92
+"2018-01-29 17:48:54",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php,91.197.67.92
+"2018-01-29 17:48:58",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php,91.197.67.92
+"2018-01-29 17:49:13",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php,91.197.67.92
+"2018-01-29 17:49:13",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?lib_id=6,91.197.67.92
+"2018-01-29 17:49:14",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?xsl_dir_id=24&lib_property_id=42,91.197.67.92
+"2018-01-29 17:49:14",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?xsl_dir_id=24&lib_property_id=43,91.197.67.92
+"2018-01-29 17:49:14",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?xsl_dir_id=24&lib_property_id=493,91.197.67.92
+"2018-01-29 17:49:15",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?xsl_dir_id=24&lib_property_id=49,91.197.67.92
+"2018-01-29 17:49:15",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?xsl_dir_id=2&lib_property_id=581,91.197.67.92
+"2018-01-29 17:49:15",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?xsl_dir_id=24&lib_property_id=50,91.197.67.92
+"2018-01-29 17:49:52",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php,91.197.67.92
+"2018-01-29 17:49:54",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-29 17:49:57",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/index.php?template_id=10&template_dir_id=0,91.197.67.92
+"2018-01-29 17:50:00",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/index.php?template_id=10&template_dir_id=0,91.197.67.92
+"2018-01-29 17:50:10",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/index.php?template_id=10&template_dir_id=0&hostcms[checked][0][2]=1,91.197.67.92
+"2018-01-29 17:50:11",admin,"Выполнено действие ""Редактировать"", формы ""Секции макета""",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/index.php?template_id=10&template_dir_id=0&hostcms[checked][0][2]=1,91.197.67.92
+"2018-01-29 17:50:15",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=2,91.197.67.92
+"2018-01-29 17:50:17",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=2,91.197.67.92
+"2018-01-29 17:50:18",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?lib_id=0,91.197.67.92
+"2018-01-29 17:50:36",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?lib_dir_id=9,91.197.67.92
+"2018-01-29 17:50:42",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php,91.197.67.92
+"2018-01-29 17:50:44",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=28,91.197.67.92
+"2018-01-29 17:50:46",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=29,91.197.67.92
+"2018-01-29 17:50:49",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=28,91.197.67.92
+"2018-01-29 17:50:50",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php,91.197.67.92
+"2018-01-29 17:50:54",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=9,91.197.67.92
+"2018-01-29 17:51:02",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=9,91.197.67.92
+"2018-01-29 17:51:11",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=9,91.197.67.92
+"2018-01-29 17:51:13",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=9,91.197.67.92
+"2018-01-29 17:51:22",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=9,91.197.67.92
+"2018-01-29 17:51:29",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=9,91.197.67.92
+"2018-01-29 17:51:51",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=9&hostcms[checked][1][0]=1,91.197.67.92
+"2018-01-29 17:51:51",admin,"Выполнено действие ""Редактировать"", формы ""Типовые динамические страницы""",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=9&hostcms[checked][1][0]=1,91.197.67.92
+"2018-01-29 17:51:56",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/property/index.php?lib_id=47&lib_dir_id=9,91.197.67.92
+"2018-01-29 17:52:28",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/property/index.php?lib_id=47&lib_dir_id=9,91.197.67.92
+"2018-01-29 17:52:57",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/property/index.php?lib_id=47&lib_dir_id=9&hostcms[checked][0][0]=1,91.197.67.92
+"2018-01-29 17:52:57",admin,"Выполнено действие ""Редактировать"", формы ""Параметры типовой динамической страницы""",1,neo-vo.ru,http://neo-vo.ru/admin/lib/property/index.php?lib_id=47&lib_dir_id=9&hostcms[checked][0][0]=1,91.197.67.92
+"2018-01-29 17:53:00",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/property/index.php?lib_id=47&lib_dir_id=9,91.197.67.92
+"2018-01-29 17:53:26",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/property/index.php?lib_id=47&lib_dir_id=9&hostcms[checked][0][0]=1,91.197.67.92
+"2018-01-29 17:53:26",admin,"Выполнено действие ""Редактировать"", формы ""Параметры типовой динамической страницы""",1,neo-vo.ru,http://neo-vo.ru/admin/lib/property/index.php?lib_id=47&lib_dir_id=9&hostcms[checked][0][0]=1,91.197.67.92
+"2018-01-29 17:53:35",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/property/index.php?lib_id=47&lib_dir_id=9,91.197.67.92
+"2018-01-29 17:53:46",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/property/index.php?lib_id=47&lib_dir_id=9&hostcms[checked][0][0]=1,91.197.67.92
+"2018-01-29 17:53:46",admin,"Выполнено действие ""Редактировать"", формы ""Параметры типовой динамической страницы""",1,neo-vo.ru,http://neo-vo.ru/admin/lib/property/index.php?lib_id=47&lib_dir_id=9&hostcms[checked][0][0]=1,91.197.67.92
+"2018-01-29 17:53:55",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/property/index.php?lib_id=47&lib_dir_id=9,91.197.67.92
+"2018-01-29 17:54:23",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/property/index.php?lib_id=47&lib_dir_id=9&hostcms[checked][0][0]=1,91.197.67.92
+"2018-01-29 17:54:23",admin,"Выполнено действие ""Редактировать"", формы ""Параметры типовой динамической страницы""",1,neo-vo.ru,http://neo-vo.ru/admin/lib/property/index.php?lib_id=47&lib_dir_id=9&hostcms[checked][0][0]=1,91.197.67.92
+"2018-01-29 17:54:28",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/property/index.php?lib_dir_id=9&lib_id=47,91.197.67.92
+"2018-01-29 17:54:29",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=9,91.197.67.92
+"2018-01-29 17:54:34",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php,91.197.67.92
+"2018-01-29 17:54:37",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-29 17:54:39",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/index.php?template_id=10&template_dir_id=0,91.197.67.92
+"2018-01-29 17:54:42",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=2,91.197.67.92
+"2018-01-29 17:54:44",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=2,91.197.67.92
+"2018-01-29 17:54:44",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?lib_id=0,91.197.67.92
+"2018-01-29 17:54:47",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?lib_dir_id=9,91.197.67.92
+"2018-01-29 17:54:51",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?lib_id=47,91.197.67.92
+"2018-01-29 17:54:51",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?xsl_dir_id=0&lib_property_id=602,91.197.67.92
+"2018-01-29 17:55:13",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?xsl_dir_id=24&lib_property_id=602,91.197.67.92
+"2018-01-29 17:55:52",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=2&hostcms[checked][0][0]=1,91.197.67.92
+"2018-01-29 17:55:52",admin,"Выполнено действие ""Редактировать"", формы ""Виждеты секции макета""",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=2&hostcms[checked][0][0]=1,91.197.67.92
+"2018-01-29 17:56:09",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=2,91.197.67.92
+"2018-01-29 17:56:09",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?lib_id=47,91.197.67.92
+"2018-01-29 17:56:10",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?xsl_dir_id=24&lib_property_id=602,91.197.67.92
+"2018-01-29 17:56:15",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php,91.197.67.92
+"2018-01-29 17:56:22",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-29 17:56:24",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/index.php?template_id=10&template_dir_id=0,91.197.67.92
+"2018-01-29 17:56:28",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=2,91.197.67.92
+"2018-01-29 17:56:50",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php,91.197.67.92
+"2018-01-29 17:56:52",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=9,91.197.67.92
+"2018-01-29 17:57:00",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=9,91.197.67.92
+"2018-01-29 17:57:05",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=9,91.197.67.92
+"2018-01-29 17:57:07",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/property/index.php?lib_id=47&lib_dir_id=9,91.197.67.92
+"2018-01-29 17:57:14",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/property/index.php?lib_id=47&lib_dir_id=9,91.197.67.92
+"2018-01-29 17:58:07",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.197.67.92
+"2018-01-29 17:58:10",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-29 17:58:34",admin,"Доступ к модулю ""sql"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/sql/index.php,91.197.67.92
+"2018-01-29 17:58:39",admin,"Доступ к модулю ""sql"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/sql/index.php,91.197.67.92
+"2018-01-29 17:59:01",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php,91.197.67.92
+"2018-01-29 17:59:03",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=9,91.197.67.92
+"2018-01-29 17:59:07",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/property/index.php?lib_id=47&lib_dir_id=9,91.197.67.92
+"2018-01-29 17:59:10",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/property/index.php?lib_id=47&lib_dir_id=9,91.197.67.92
+"2018-01-29 17:59:21",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/property/index.php?lib_id=47&lib_dir_id=9&hostcms[checked][0][600]=1,91.197.67.92
+"2018-01-29 17:59:21",admin,"Выполнено действие ""Редактировать"", формы ""Параметры типовой динамической страницы""",1,neo-vo.ru,http://neo-vo.ru/admin/lib/property/index.php?lib_id=47&lib_dir_id=9&hostcms[checked][0][600]=1,91.197.67.92
+"2018-01-29 17:59:23",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php,91.197.67.92
+"2018-01-29 17:59:24",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-29 17:59:26",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/index.php?template_id=10&template_dir_id=0,91.197.67.92
+"2018-01-29 17:59:28",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=2,91.197.67.92
+"2018-01-29 17:59:31",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=2,91.197.67.92
+"2018-01-29 17:59:31",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?lib_id=47,91.197.67.92
+"2018-01-29 17:59:32",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?xsl_dir_id=24&lib_property_id=602,91.197.67.92
+"2018-01-29 17:59:52",admin,"Доступ к модулю ""xsl"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/xsl/index.php?xsl_dir_id=24&hostcms[checked][1][55]=1&hostcms[action]=edit,91.197.67.92
+"2018-01-29 18:00:05",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=2&hostcms[checked][0][2]=1,91.197.67.92
+"2018-01-29 18:00:05",admin,"Выполнено действие ""Редактировать"", формы ""Виждеты секции макета""",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=2&hostcms[checked][0][2]=1,91.197.67.92
+"2018-01-29 18:00:17",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php,91.197.67.92
+"2018-01-29 18:00:20",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-29 18:00:22",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=10,91.197.67.92
+"2018-01-29 18:00:24",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-29 18:00:26",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/index.php?template_id=10&template_dir_id=0,91.197.67.92
+"2018-01-29 18:00:28",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-29 18:00:30",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-29 18:02:13",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php,91.197.67.92
+"2018-01-29 18:02:15",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php,91.197.67.92
+"2018-01-29 18:02:19",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php,91.197.67.92
+"2018-01-29 18:02:23",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php,91.197.67.92
+"2018-01-29 18:02:25",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php,91.197.67.92
+"2018-01-29 18:02:34",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php,91.197.67.92
+"2018-01-29 18:02:35",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?lib_id=6,91.197.67.92
+"2018-01-29 18:02:36",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?xsl_dir_id=24&lib_property_id=42,91.197.67.92
+"2018-01-29 18:02:37",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?xsl_dir_id=24&lib_property_id=493,91.197.67.92
+"2018-01-29 18:02:38",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?xsl_dir_id=24&lib_property_id=50,91.197.67.92
+"2018-01-29 18:02:40",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?xsl_dir_id=24&lib_property_id=43,91.197.67.92
+"2018-01-29 18:02:40",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?xsl_dir_id=24&lib_property_id=49,91.197.67.92
+"2018-01-29 18:02:42",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?xsl_dir_id=2&lib_property_id=581,91.197.67.92
+"2018-01-29 18:02:45",admin,"Доступ к модулю ""xsl"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/xsl/index.php?xsl_dir_id=24&hostcms[checked][1][55]=1&hostcms[action]=edit,91.197.67.92
+"2018-01-29 18:12:41",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php,91.197.67.92
+"2018-01-29 18:12:44",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-29 18:12:46",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-29 18:14:48",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1&hostcms[checked][1][10]=1,91.197.67.92
+"2018-01-29 18:16:20",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php,91.197.67.92
+"2018-01-29 18:16:26",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php,91.197.67.92
+"2018-01-29 18:16:28",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php,91.197.67.92
+"2018-01-29 18:16:30",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-29 18:16:32",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/index.php?template_id=10&template_dir_id=0,91.197.67.92
+"2018-01-29 18:16:35",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=2,91.197.67.92
+"2018-01-29 18:16:38",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=2,91.197.67.92
+"2018-01-29 18:16:39",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?lib_id=47,91.197.67.92
+"2018-01-29 18:16:40",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?xsl_dir_id=24&lib_property_id=602,91.197.67.92
+"2018-01-29 18:16:54",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=2&hostcms[checked][0][2]=1,91.197.67.92
+"2018-01-29 18:18:02",admin,"Доступ к модулю ""xsl"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/xsl/index.php?xsl_dir_id=24&hostcms[checked][1][56]=1&hostcms[action]=edit,91.197.67.92
+"2018-01-29 18:18:13",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=2&hostcms[checked][0][2]=1,91.197.67.92
+"2018-01-29 18:18:14",admin,"Выполнено действие ""Редактировать"", формы ""Виждеты секции макета""",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=2&hostcms[checked][0][2]=1,91.197.67.92
+"2018-01-29 18:18:16",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=2,91.197.67.92
+"2018-01-29 18:18:17",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?lib_id=47,91.197.67.92
+"2018-01-29 18:18:18",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?xsl_dir_id=24&lib_property_id=602,91.197.67.92
+"2018-01-29 18:18:59",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.197.67.92
+"2018-01-29 18:19:02",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-29 18:19:07",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-29 18:19:09",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-29 18:19:33",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0&hostcms[checked][1][74]=1,91.197.67.92
+"2018-01-29 18:19:34",admin,"Выполнено действие ""Редактировать"", формы ""Дополнительные свойства""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/index.php?shop_id=1&shop_group_id=0&hostcms[checked][1][74]=1,91.197.67.92
+"2018-01-29 18:19:37",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.197.67.92
+"2018-01-29 18:19:39",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-29 18:19:43",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/for/group/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-29 18:19:49",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/for/group/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-29 18:19:49",admin,"Выполнено действие ""Выключить всем"", формы ""Свойства товаров, доступные для текущей группы товаров""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/for/group/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-29 18:19:52",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/for/group/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-29 18:19:52",admin,"Выполнено действие ""Включить всем"", формы ""Свойства товаров, доступные для текущей группы товаров""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/for/group/index.php?shop_id=1&shop_group_id=0,91.197.67.92
+"2018-01-29 18:19:56",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/index.php,91.197.67.92
+"2018-01-29 18:19:57",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_dir_id=0,91.197.67.92
+"2018-01-29 18:19:59",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=612,91.197.67.92
+"2018-01-29 18:20:02",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=612,91.197.67.92
+"2018-01-29 18:20:04",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/,91.197.67.92
+"2018-01-29 18:20:04",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/,91.197.67.92
+"2018-01-29 18:20:08",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=612,91.197.67.92
+"2018-01-29 18:20:12",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=612,91.197.67.92
+"2018-01-29 18:20:13",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/,91.197.67.92
+"2018-01-29 18:20:14",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/property/,91.197.67.92
+"2018-01-29 18:20:18",admin,"Доступ к модулю ""shop"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=612&hostcms[checked][1][261]=1,91.197.67.92
+"2018-01-29 18:20:18",admin,"Выполнено действие ""Редактировать"", формы ""Интернет-магазин, товары и группы""",1,neo-vo.ru,http://neo-vo.ru/admin/shop/item/index.php?shop_id=1&shop_group_id=612&hostcms[checked][1][261]=1,91.197.67.92
+"2018-01-29 18:20:45",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php,91.197.67.92
+"2018-01-29 18:20:46",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-29 18:20:48",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/index.php?template_id=10&template_dir_id=0,91.197.67.92
+"2018-01-29 18:20:52",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=2,91.197.67.92
+"2018-01-29 18:20:54",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=2,91.197.67.92
+"2018-01-29 18:20:54",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?lib_id=47,91.197.67.92
+"2018-01-29 18:20:55",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?xsl_dir_id=24&lib_property_id=602,91.197.67.92
+"2018-01-29 18:20:59",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=2&hostcms[checked][0][2]=1,91.197.67.92
+"2018-01-29 18:21:03",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=2&hostcms[checked][0][2]=1,91.197.67.92
+"2018-01-29 18:21:39",admin,"Доступ к модулю ""xsl"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/xsl/index.php?xsl_dir_id=24&hostcms[checked][1][55]=1&hostcms[action]=edit,91.197.67.92
+"2018-01-29 18:21:47",admin,"Доступ к модулю ""xsl"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/xsl/index.php?xsl_dir_id=24,91.197.67.92
+"2018-01-29 18:21:57",admin,"Доступ к модулю ""xsl"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/xsl/index.php?xsl_dir_id=24,91.197.67.92
+"2018-01-29 18:23:42",admin,"Доступ к модулю ""xsl"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/xsl/index.php?xsl_dir_id=24,91.197.67.92
+"2018-01-29 18:23:56",admin,"Доступ к модулю ""xsl"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/xsl/index.php?xsl_dir_id=24,91.197.67.92
+"2018-01-29 18:23:56",admin,"Выполнено действие ""Копировать"", формы ""Список разделов XSL""",1,neo-vo.ru,http://neo-vo.ru/admin/xsl/index.php?xsl_dir_id=24,91.197.67.92
+"2018-01-29 18:24:20",admin,"Доступ к модулю ""xsl"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/xsl/index.php,91.197.67.92
+"2018-01-29 18:24:20",admin,"Выполнено действие ""Применить"", формы ""Список разделов XSL""",1,neo-vo.ru,http://neo-vo.ru/admin/xsl/index.php,91.197.67.92
+"2018-01-29 18:24:22",admin,"Доступ к модулю ""xsl"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/xsl/index.php?xsl_dir_id=24,91.197.67.92
+"2018-01-29 18:24:36",admin,"Доступ к модулю ""xsl"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/xsl/index.php?xsl_dir_id=24&hostcms[checked][1][239]=1,91.197.67.92
+"2018-01-29 18:26:14",admin,"Доступ к модулю ""sql"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/sql/index.php,91.197.67.92
+"2018-01-29 18:26:20",admin,"Доступ к модулю ""sql"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/sql/index.php,91.197.67.92
+"2018-01-29 18:26:47",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php,91.197.67.92
+"2018-01-29 18:26:50",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=9,91.197.67.92
+"2018-01-29 18:26:52",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=9,91.197.67.92
+"2018-01-29 18:26:56",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=9,91.197.67.92
+"2018-01-29 18:26:58",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/property/index.php?lib_id=47&lib_dir_id=9,91.197.67.92
+"2018-01-29 18:27:01",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/property/index.php?lib_id=47&lib_dir_id=9,91.197.67.92
+"2018-01-29 18:27:08",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/property/index.php?lib_id=47&lib_dir_id=9,91.197.67.92
+"2018-01-29 18:27:11",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=9,91.197.67.92
+"2018-01-29 18:27:13",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=9,91.197.67.92
+"2018-01-29 18:27:19",admin,"Доступ к модулю ""sql"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/sql/index.php,91.197.67.92
+"2018-01-29 18:30:11",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=9&hostcms[checked][1][47]=1,91.197.67.92
+"2018-01-29 18:30:37",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=9&hostcms[checked][1][47]=1,91.197.67.92
+"2018-01-29 18:33:09",admin,"Доступ к модулю ""sql"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/sql/index.php,91.197.67.92
+"2018-01-29 18:33:09",admin,"Query error 42000: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INNER JOIN `shop_item_properties` ON `shop_items`.`shop_id` = `shop_item_propert' at line 2. Query: SELECT `shop_items`.*
+INNER JOIN `shop_item_properties` ON `shop_items`.`shop_id` = `shop_item_properties`.`shop_id`
+INNER JOIN `property_value_ints` ON `shop_items`.`id` = `property_value_ints`.`entity_id`
+WHERE `shop_items`.`shop_id` = '1' AND ( `shop_items`.`start_datetime` &lt; '2018-01-29 18:30:14' OR `shop_items`.`start_datetime` = '0000-00-00 00:00:00' )
+AND ( `shop_items`.`end_datetime` &gt; '2018-01-29 18:30:14' OR `shop_items`.`end_datetime` = '0000-00-00 00:00:00' )
+AND `shop_items`.`siteuser_group_id` IN (0, -1)
+AND `shop_items`.`modification_id` = 0
+AND `shop_item_properties`.`property_id` = '74'
+AND `property_value_ints`.`value` = '1'
+ORDER BY rand()
+36 modules/core/exception.php
+598 modules/core/database/pdo.php
+93 modules/sql/controller.php
+104 admin/sql/index.php",4,neo-vo.ru,http://neo-vo.ru/admin/sql/index.php,91.197.67.92
+"2018-01-29 18:34:07",admin,"Доступ к модулю ""sql"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/sql/index.php,91.197.67.92
+"2018-01-29 18:34:07",admin,"Query error 42000: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INNER JOIN `shop_item_properties` ON `shop_items`.`shop_id` = `shop_item_propert' at line 2. Query: SELECT `shop_items`.*
+INNER JOIN `shop_item_properties` ON `shop_items`.`shop_id` = `shop_item_properties`.`shop_id`
+INNER JOIN `property_value_ints` ON `shop_items`.`id` = `property_value_ints`.`entity_id`
+WHERE `shop_items`.`shop_id` = '1'
+AND ( `shop_items`.`start_datetime` &lt; '2018-01-29 18:30:14' OR `shop_items`.`start_datetime` = '0000-00-00 00:00:00' )
+AND ( `shop_items`.`end_datetime` &gt; '2018-01-29 18:30:14' OR `shop_items`.`end_datetime` = '0000-00-00 00:00:00' )
+AND `shop_items`.`siteuser_group_id` IN (0, -1)
+AND `shop_items`.`modification_id` = 0
+AND `shop_item_properties`.`property_id` = '74'
+AND `property_value_ints`.`value` = '1'
+ORDER BY rand() ;
+36 modules/core/exception.php
+598 modules/core/database/pdo.php
+93 modules/sql/controller.php
+104 admin/sql/index.php",4,neo-vo.ru,http://neo-vo.ru/admin/sql/index.php,91.197.67.92
+"2018-01-29 18:35:11",admin,"Доступ к модулю ""sql"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/sql/index.php,91.197.67.92
+"2018-01-29 18:35:52",admin,"Доступ к модулю ""sql"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/sql/index.php,91.197.67.92
+"2018-01-29 18:37:08",admin,"Доступ к модулю ""sql"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/sql/index.php,91.197.67.92
+"2018-01-29 18:37:36",admin,"Доступ к модулю ""sql"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/sql/index.php,91.197.67.92
+"2018-01-29 18:38:07",admin,"Доступ к модулю ""sql"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/sql/index.php,91.197.67.92
+"2018-01-29 18:39:08",admin,"Доступ к модулю ""sql"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/sql/index.php,91.197.67.92
+"2018-01-29 18:39:13",admin,"Доступ к модулю ""sql"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/sql/index.php,91.197.67.92
+"2018-01-29 18:40:25",admin,"Доступ к модулю ""sql"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/sql/index.php,91.197.67.92
+"2018-01-29 18:40:44",admin,"Доступ к модулю ""sql"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/sql/index.php,91.197.67.92
+"2018-01-29 18:41:06",admin,"Доступ к модулю ""sql"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/sql/index.php,91.197.67.92
+"2018-01-29 18:41:35",admin,"Доступ к модулю ""sql"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/sql/index.php,91.197.67.92
+"2018-01-29 18:42:56",admin,"Доступ к модулю ""sql"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/sql/index.php,91.197.67.92
+"2018-01-29 18:43:07",admin,"Доступ к модулю ""sql"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/sql/index.php,91.197.67.92
+"2018-01-29 18:44:43",admin,"Доступ к модулю ""sql"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/sql/index.php,91.197.67.92
+"2018-01-29 18:45:22",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=9&hostcms[checked][1][47]=1,91.197.67.92
+"2018-01-29 18:45:22",admin,"Выполнено действие ""Редактировать"", формы ""Типовые динамические страницы""",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=9&hostcms[checked][1][47]=1,91.197.67.92
+"2018-01-29 18:45:48",admin,"Доступ к модулю ""xsl"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/xsl/index.php?xsl_dir_id=24&hostcms[checked][1][239]=1,91.197.67.92
+"2018-01-29 18:45:53",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=9,91.197.67.92
+"2018-01-29 18:45:57",admin,"Доступ к модулю ""lib"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/lib/index.php?lib_dir_id=9,91.197.67.92
+"2018-01-29 18:45:58",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php,91.197.67.92
+"2018-01-29 18:46:00",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-29 18:46:03",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/index.php?template_id=10&template_dir_id=0,91.197.67.92
+"2018-01-29 18:46:06",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=2,91.197.67.92
+"2018-01-29 18:46:08",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=2,91.197.67.92
+"2018-01-29 18:46:09",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?lib_id=47,91.197.67.92
+"2018-01-29 18:46:09",admin,"Доступ к модулю ""structure"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/structure/index.php?xsl_dir_id=24&lib_property_id=602,91.197.67.92
+"2018-01-29 18:46:27",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=2&hostcms[checked][0][2]=1,91.197.67.92
+"2018-01-29 18:46:28",admin,"Выполнено действие ""Редактировать"", формы ""Виждеты секции макета""",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=2&hostcms[checked][0][2]=1,91.197.67.92
+"2018-01-29 18:50:11",admin,"Доступ к модулю ""xsl"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/xsl/index.php?xsl_dir_id=24&hostcms[checked][1][239]=1,91.197.67.92
+"2018-01-29 18:53:22",admin,"Доступ к модулю ""xsl"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/xsl/index.php?xsl_dir_id=24&hostcms[checked][1][239]=1,91.197.67.92
+"2018-01-29 18:54:42",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/lib/index.php?template_section_id=2,91.197.67.92
+"2018-01-29 18:54:43",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/index.php?template_id=10&template_dir_id=0,91.197.67.92
+"2018-01-29 18:54:45",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/section/index.php?template_dir_id=0&template_id=10,91.197.67.92
+"2018-01-29 18:54:47",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php,91.197.67.92
+"2018-01-29 18:54:50",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-29 18:54:53",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-29 18:58:22",undefined,"Section hits does not exist!
+36 modules/core/exception.php
+647 modules/template/model.php
+143 templates/template1/template.htm
+95 modules/template/model.php
+161 modules/core/page.php
+481 modules/core/command/controller/default.php
+193 modules/core/router/route.php
+246 index.php",0,neo-vo.ru,http://neo-vo.ru/catalog/mnemoshemi-dion-taktil/stoiki-dlia-mnemoskhem/,91.197.67.92
+"2018-01-29 18:58:36",undefined,"Section hits does not exist!
+36 modules/core/exception.php
+647 modules/template/model.php
+143 templates/template1/template.htm
+95 modules/template/model.php
+161 modules/core/page.php
+481 modules/core/command/controller/default.php
+193 modules/core/router/route.php
+246 index.php",0,neo-vo.ru,http://neo-vo.ru/catalog/ramps-handrails-lifts-elevators/podemniki-dlia-mgn/stair-lifting-platform-for-mh/,66.249.64.26
+"2018-01-29 18:58:46",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php,91.197.67.92
+"2018-01-29 18:58:48",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php?template_dir_id=0&template_id=1,91.197.67.92
+"2018-01-29 18:58:51",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php,91.197.67.92
+"2018-01-29 18:58:52",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php,91.197.67.92
+"2018-01-29 18:59:27",undefined,"Section hits does not exist!
+36 modules/core/exception.php
+647 modules/template/model.php
+143 templates/template1/template.htm
+95 modules/template/model.php
+161 modules/core/page.php
+481 modules/core/command/controller/default.php
+193 modules/core/router/route.php
+246 index.php",0,neo-vo.ru,http://neo-vo.ru/,91.197.67.92
+"2018-01-29 19:02:59",admin,"Доступ к модулю ""xsl"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/xsl/index.php?hostcms[action]=&hostcms[operation]=&hostcms[current]=1&hostcms[sortingfield]=85&hostcms[sortingdirection]=0&hostcms[window]=id_content&xsl_dir_id=24,91.197.67.92
+"2018-01-29 19:07:12",admin,"Доступ к модулю ""template"" разрешен",1,neo-vo.ru,http://neo-vo.ru/admin/template/index.php,91.197.67.92
+"2018-01-29 19:07:20",undefined,"<strong>Предупреждение:</strong> DOMDocument::loadXML(): Opening and ending tag mismatch: img line 36 and a in Entity, line: 37 в файле /home/neo-vo/neo-vo.ru/docs/modules/xsl/processor/xslt.php (строка 39)
+Стек вызовов:
+Файл: modules/xsl/processor/xslt.php, строка 39,
+Файл: modules/core/controller.php, строка 202,
+Файл: modules/shop/controller/show.php, строка 975,
+Файл: hostcmsfiles/lib/lib_47/lib_47.php, строка 35,
+Файл: modules/lib/model.php, строка 286,
+Файл: modules/template/section/lib/model.php, строка 139,
+Файл: modules/template/model.php, строка 637,
+Файл: templates/template10/template.htm, строка 40,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: templates/template1/template.htm, строка 137,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: modules/core/command/controller/default.php, строка 481,
+Файл: modules/core/router/route.php, строка 193,
+Файл: index.php, строка 246",3,neo-vo.ru,http://neo-vo.ru/catalog/mnemoshemi-dion-taktil/stoiki-dlia-mnemoskhem/,91.197.67.92
+"2018-01-29 19:07:20",undefined,"<strong>Предупреждение:</strong> DOMDocument::loadXML(): Opening and ending tag mismatch: a line 35 and div in Entity, line: 37 в файле /home/neo-vo/neo-vo.ru/docs/modules/xsl/processor/xslt.php (строка 39)
+Стек вызовов:
+Файл: modules/xsl/processor/xslt.php, строка 39,
+Файл: modules/core/controller.php, строка 202,
+Файл: modules/shop/controller/show.php, строка 975,
+Файл: hostcmsfiles/lib/lib_47/lib_47.php, строка 35,
+Файл: modules/lib/model.php, строка 286,
+Файл: modules/template/section/lib/model.php, строка 139,
+Файл: modules/template/model.php, строка 637,
+Файл: templates/template10/template.htm, строка 40,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: templates/template1/template.htm, строка 137,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: modules/core/command/controller/default.php, строка 481,
+Файл: modules/core/router/route.php, строка 193,
+Файл: index.php, строка 246",3,neo-vo.ru,http://neo-vo.ru/catalog/mnemoshemi-dion-taktil/stoiki-dlia-mnemoskhem/,91.197.67.92
+"2018-01-29 19:07:20",undefined,"<strong>Предупреждение:</strong> DOMDocument::loadXML(): Opening and ending tag mismatch: div line 35 and li in Entity, line: 44 в файле /home/neo-vo/neo-vo.ru/docs/modules/xsl/processor/xslt.php (строка 39)
+Стек вызовов:
+Файл: modules/xsl/processor/xslt.php, строка 39,
+Файл: modules/core/controller.php, строка 202,
+Файл: modules/shop/controller/show.php, строка 975,
+Файл: hostcmsfiles/lib/lib_47/lib_47.php, строка 35,
+Файл: modules/lib/model.php, строка 286,
+Файл: modules/template/section/lib/model.php, строка 139,
+Файл: modules/template/model.php, строка 637,
+Файл: templates/template10/template.htm, строка 40,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: templates/template1/template.htm, строка 137,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: modules/core/command/controller/default.php, строка 481,
+Файл: modules/core/router/route.php, строка 193,
+Файл: index.php, строка 246",3,neo-vo.ru,http://neo-vo.ru/catalog/mnemoshemi-dion-taktil/stoiki-dlia-mnemoskhem/,91.197.67.92
+"2018-01-29 19:07:20",undefined,"<strong>Предупреждение:</strong> DOMDocument::loadXML(): Opening and ending tag mismatch: li line 34 and xsl:template in Entity, line: 104 в файле /home/neo-vo/neo-vo.ru/docs/modules/xsl/processor/xslt.php (строка 39)
+Стек вызовов:
+Файл: modules/xsl/processor/xslt.php, строка 39,
+Файл: modules/core/controller.php, строка 202,
+Файл: modules/shop/controller/show.php, строка 975,
+Файл: hostcmsfiles/lib/lib_47/lib_47.php, строка 35,
+Файл: modules/lib/model.php, строка 286,
+Файл: modules/template/section/lib/model.php, строка 139,
+Файл: modules/template/model.php, строка 637,
+Файл: templates/template10/template.htm, строка 40,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: templates/template1/template.htm, строка 137,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: modules/core/command/controller/default.php, строка 481,
+Файл: modules/core/router/route.php, строка 193,
+Файл: index.php, строка 246",3,neo-vo.ru,http://neo-vo.ru/catalog/mnemoshemi-dion-taktil/stoiki-dlia-mnemoskhem/,91.197.67.92
+"2018-01-29 19:07:20",undefined,"<strong>Предупреждение:</strong> DOMDocument::loadXML(): Opening and ending tag mismatch: template line 33 and stylesheet in Entity, line: 105 в файле /home/neo-vo/neo-vo.ru/docs/modules/xsl/processor/xslt.php (строка 39)
+Стек вызовов:
+Файл: modules/xsl/processor/xslt.php, строка 39,
+Файл: modules/core/controller.php, строка 202,
+Файл: modules/shop/controller/show.php, строка 975,
+Файл: hostcmsfiles/lib/lib_47/lib_47.php, строка 35,
+Файл: modules/lib/model.php, строка 286,
+Файл: modules/template/section/lib/model.php, строка 139,
+Файл: modules/template/model.php, строка 637,
+Файл: templates/template10/template.htm, строка 40,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: templates/template1/template.htm, строка 137,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: modules/core/command/controller/default.php, строка 481,
+Файл: modules/core/router/route.php, строка 193,
+Файл: index.php, строка 246",3,neo-vo.ru,http://neo-vo.ru/catalog/mnemoshemi-dion-taktil/stoiki-dlia-mnemoskhem/,91.197.67.92
+"2018-01-29 19:07:20",undefined,"<strong>Предупреждение:</strong> DOMDocument::loadXML(): Premature end of data in tag stylesheet line 3 in Entity, line: 105 в файле /home/neo-vo/neo-vo.ru/docs/modules/xsl/processor/xslt.php (строка 39)
+Стек вызовов:
+Файл: modules/xsl/processor/xslt.php, строка 39,
+Файл: modules/core/controller.php, строка 202,
+Файл: modules/shop/controller/show.php, строка 975,
+Файл: hostcmsfiles/lib/lib_47/lib_47.php, строка 35,
+Файл: modules/lib/model.php, строка 286,
+Файл: modules/template/section/lib/model.php, строка 139,
+Файл: modules/template/model.php, строка 637,
+Файл: templates/template10/template.htm, строка 40,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: templates/template1/template.htm, строка 137,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: modules/core/command/controller/default.php, строка 481,
+Файл: modules/core/router/route.php, строка 193,
+Файл: index.php, строка 246",3,neo-vo.ru,http://neo-vo.ru/catalog/mnemoshemi-dion-taktil/stoiki-dlia-mnemoskhem/,91.197.67.92
+"2018-01-29 19:07:24",undefined,"<strong>Предупреждение:</strong> DOMDocument::loadXML(): Opening and ending tag mismatch: img line 36 and a in Entity, line: 37 в файле /home/neo-vo/neo-vo.ru/docs/modules/xsl/processor/xslt.php (строка 39)
+Стек вызовов:
+Файл: modules/xsl/processor/xslt.php, строка 39,
+Файл: modules/core/controller.php, строка 202,
+Файл: modules/shop/controller/show.php, строка 975,
+Файл: hostcmsfiles/lib/lib_47/lib_47.php, строка 35,
+Файл: modules/lib/model.php, строка 286,
+Файл: modules/template/section/lib/model.php, строка 139,
+Файл: modules/template/model.php, строка 637,
+Файл: templates/template10/template.htm, строка 40,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: templates/template1/template.htm, строка 137,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: modules/core/command/controller/default.php, строка 481,
+Файл: modules/core/router/route.php, строка 193,
+Файл: index.php, строка 246",3,neo-vo.ru,http://neo-vo.ru/catalog/poruchni/sink-cersanit-etiuda/,54.36.148.166
+"2018-01-29 19:07:24",undefined,"<strong>Предупреждение:</strong> DOMDocument::loadXML(): Opening and ending tag mismatch: a line 35 and div in Entity, line: 37 в файле /home/neo-vo/neo-vo.ru/docs/modules/xsl/processor/xslt.php (строка 39)
+Стек вызовов:
+Файл: modules/xsl/processor/xslt.php, строка 39,
+Файл: modules/core/controller.php, строка 202,
+Файл: modules/shop/controller/show.php, строка 975,
+Файл: hostcmsfiles/lib/lib_47/lib_47.php, строка 35,
+Файл: modules/lib/model.php, строка 286,
+Файл: modules/template/section/lib/model.php, строка 139,
+Файл: modules/template/model.php, строка 637,
+Файл: templates/template10/template.htm, строка 40,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: templates/template1/template.htm, строка 137,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: modules/core/command/controller/default.php, строка 481,
+Файл: modules/core/router/route.php, строка 193,
+Файл: index.php, строка 246",3,neo-vo.ru,http://neo-vo.ru/catalog/poruchni/sink-cersanit-etiuda/,54.36.148.166
+"2018-01-29 19:07:24",undefined,"<strong>Предупреждение:</strong> DOMDocument::loadXML(): Opening and ending tag mismatch: div line 35 and li in Entity, line: 44 в файле /home/neo-vo/neo-vo.ru/docs/modules/xsl/processor/xslt.php (строка 39)
+Стек вызовов:
+Файл: modules/xsl/processor/xslt.php, строка 39,
+Файл: modules/core/controller.php, строка 202,
+Файл: modules/shop/controller/show.php, строка 975,
+Файл: hostcmsfiles/lib/lib_47/lib_47.php, строка 35,
+Файл: modules/lib/model.php, строка 286,
+Файл: modules/template/section/lib/model.php, строка 139,
+Файл: modules/template/model.php, строка 637,
+Файл: templates/template10/template.htm, строка 40,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: templates/template1/template.htm, строка 137,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: modules/core/command/controller/default.php, строка 481,
+Файл: modules/core/router/route.php, строка 193,
+Файл: index.php, строка 246",3,neo-vo.ru,http://neo-vo.ru/catalog/poruchni/sink-cersanit-etiuda/,54.36.148.166
+"2018-01-29 19:07:24",undefined,"<strong>Предупреждение:</strong> DOMDocument::loadXML(): Opening and ending tag mismatch: li line 34 and xsl:template in Entity, line: 104 в файле /home/neo-vo/neo-vo.ru/docs/modules/xsl/processor/xslt.php (строка 39)
+Стек вызовов:
+Файл: modules/xsl/processor/xslt.php, строка 39,
+Файл: modules/core/controller.php, строка 202,
+Файл: modules/shop/controller/show.php, строка 975,
+Файл: hostcmsfiles/lib/lib_47/lib_47.php, строка 35,
+Файл: modules/lib/model.php, строка 286,
+Файл: modules/template/section/lib/model.php, строка 139,
+Файл: modules/template/model.php, строка 637,
+Файл: templates/template10/template.htm, строка 40,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: templates/template1/template.htm, строка 137,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: modules/core/command/controller/default.php, строка 481,
+Файл: modules/core/router/route.php, строка 193,
+Файл: index.php, строка 246",3,neo-vo.ru,http://neo-vo.ru/catalog/poruchni/sink-cersanit-etiuda/,54.36.148.166
+"2018-01-29 19:07:24",undefined,"<strong>Предупреждение:</strong> DOMDocument::loadXML(): Opening and ending tag mismatch: template line 33 and stylesheet in Entity, line: 105 в файле /home/neo-vo/neo-vo.ru/docs/modules/xsl/processor/xslt.php (строка 39)
+Стек вызовов:
+Файл: modules/xsl/processor/xslt.php, строка 39,
+Файл: modules/core/controller.php, строка 202,
+Файл: modules/shop/controller/show.php, строка 975,
+Файл: hostcmsfiles/lib/lib_47/lib_47.php, строка 35,
+Файл: modules/lib/model.php, строка 286,
+Файл: modules/template/section/lib/model.php, строка 139,
+Файл: modules/template/model.php, строка 637,
+Файл: templates/template10/template.htm, строка 40,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: templates/template1/template.htm, строка 137,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: modules/core/command/controller/default.php, строка 481,
+Файл: modules/core/router/route.php, строка 193,
+Файл: index.php, строка 246",3,neo-vo.ru,http://neo-vo.ru/catalog/poruchni/sink-cersanit-etiuda/,54.36.148.166
+"2018-01-29 19:07:24",undefined,"<strong>Предупреждение:</strong> DOMDocument::loadXML(): Premature end of data in tag stylesheet line 3 in Entity, line: 105 в файле /home/neo-vo/neo-vo.ru/docs/modules/xsl/processor/xslt.php (строка 39)
+Стек вызовов:
+Файл: modules/xsl/processor/xslt.php, строка 39,
+Файл: modules/core/controller.php, строка 202,
+Файл: modules/shop/controller/show.php, строка 975,
+Файл: hostcmsfiles/lib/lib_47/lib_47.php, строка 35,
+Файл: modules/lib/model.php, строка 286,
+Файл: modules/template/section/lib/model.php, строка 139,
+Файл: modules/template/model.php, строка 637,
+Файл: templates/template10/template.htm, строка 40,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: templates/template1/template.htm, строка 137,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: modules/core/command/controller/default.php, строка 481,
+Файл: modules/core/router/route.php, строка 193,
+Файл: index.php, строка 246",3,neo-vo.ru,http://neo-vo.ru/catalog/poruchni/sink-cersanit-etiuda/,54.36.148.166
+"2018-01-29 19:07:33",undefined,"<strong>Предупреждение:</strong> DOMDocument::loadXML(): Opening and ending tag mismatch: img line 36 and a in Entity, line: 37 в файле /home/neo-vo/neo-vo.ru/docs/modules/xsl/processor/xslt.php (строка 39)
+Стек вызовов:
+Файл: modules/xsl/processor/xslt.php, строка 39,
+Файл: modules/core/controller.php, строка 202,
+Файл: modules/shop/controller/show.php, строка 975,
+Файл: hostcmsfiles/lib/lib_47/lib_47.php, строка 35,
+Файл: modules/lib/model.php, строка 286,
+Файл: modules/template/section/lib/model.php, строка 139,
+Файл: modules/template/model.php, строка 637,
+Файл: templates/template10/template.htm, строка 40,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: templates/template1/template.htm, строка 137,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: modules/core/command/controller/default.php, строка 481,
+Файл: modules/core/router/route.php, строка 193,
+Файл: index.php, строка 246",3,neo-vo.ru,http://neo-vo.ru/catalog/mnemoshemi-dion-taktil/stoiki-dlia-mnemoskhem/,91.197.67.92
+"2018-01-29 19:07:33",undefined,"<strong>Предупреждение:</strong> DOMDocument::loadXML(): Opening and ending tag mismatch: a line 35 and div in Entity, line: 37 в файле /home/neo-vo/neo-vo.ru/docs/modules/xsl/processor/xslt.php (строка 39)
+Стек вызовов:
+Файл: modules/xsl/processor/xslt.php, строка 39,
+Файл: modules/core/controller.php, строка 202,
+Файл: modules/shop/controller/show.php, строка 975,
+Файл: hostcmsfiles/lib/lib_47/lib_47.php, строка 35,
+Файл: modules/lib/model.php, строка 286,
+Файл: modules/template/section/lib/model.php, строка 139,
+Файл: modules/template/model.php, строка 637,
+Файл: templates/template10/template.htm, строка 40,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: templates/template1/template.htm, строка 137,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: modules/core/command/controller/default.php, строка 481,
+Файл: modules/core/router/route.php, строка 193,
+Файл: index.php, строка 246",3,neo-vo.ru,http://neo-vo.ru/catalog/mnemoshemi-dion-taktil/stoiki-dlia-mnemoskhem/,91.197.67.92
+"2018-01-29 19:07:33",undefined,"<strong>Предупреждение:</strong> DOMDocument::loadXML(): Opening and ending tag mismatch: div line 35 and li in Entity, line: 44 в файле /home/neo-vo/neo-vo.ru/docs/modules/xsl/processor/xslt.php (строка 39)
+Стек вызовов:
+Файл: modules/xsl/processor/xslt.php, строка 39,
+Файл: modules/core/controller.php, строка 202,
+Файл: modules/shop/controller/show.php, строка 975,
+Файл: hostcmsfiles/lib/lib_47/lib_47.php, строка 35,
+Файл: modules/lib/model.php, строка 286,
+Файл: modules/template/section/lib/model.php, строка 139,
+Файл: modules/template/model.php, строка 637,
+Файл: templates/template10/template.htm, строка 40,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: templates/template1/template.htm, строка 137,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: modules/core/command/controller/default.php, строка 481,
+Файл: modules/core/router/route.php, строка 193,
+Файл: index.php, строка 246",3,neo-vo.ru,http://neo-vo.ru/catalog/mnemoshemi-dion-taktil/stoiki-dlia-mnemoskhem/,91.197.67.92
+"2018-01-29 19:07:33",undefined,"<strong>Предупреждение:</strong> DOMDocument::loadXML(): Opening and ending tag mismatch: li line 34 and xsl:template in Entity, line: 104 в файле /home/neo-vo/neo-vo.ru/docs/modules/xsl/processor/xslt.php (строка 39)
+Стек вызовов:
+Файл: modules/xsl/processor/xslt.php, строка 39,
+Файл: modules/core/controller.php, строка 202,
+Файл: modules/shop/controller/show.php, строка 975,
+Файл: hostcmsfiles/lib/lib_47/lib_47.php, строка 35,
+Файл: modules/lib/model.php, строка 286,
+Файл: modules/template/section/lib/model.php, строка 139,
+Файл: modules/template/model.php, строка 637,
+Файл: templates/template10/template.htm, строка 40,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: templates/template1/template.htm, строка 137,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: modules/core/command/controller/default.php, строка 481,
+Файл: modules/core/router/route.php, строка 193,
+Файл: index.php, строка 246",3,neo-vo.ru,http://neo-vo.ru/catalog/mnemoshemi-dion-taktil/stoiki-dlia-mnemoskhem/,91.197.67.92
+"2018-01-29 19:07:33",undefined,"<strong>Предупреждение:</strong> DOMDocument::loadXML(): Opening and ending tag mismatch: template line 33 and stylesheet in Entity, line: 105 в файле /home/neo-vo/neo-vo.ru/docs/modules/xsl/processor/xslt.php (строка 39)
+Стек вызовов:
+Файл: modules/xsl/processor/xslt.php, строка 39,
+Файл: modules/core/controller.php, строка 202,
+Файл: modules/shop/controller/show.php, строка 975,
+Файл: hostcmsfiles/lib/lib_47/lib_47.php, строка 35,
+Файл: modules/lib/model.php, строка 286,
+Файл: modules/template/section/lib/model.php, строка 139,
+Файл: modules/template/model.php, строка 637,
+Файл: templates/template10/template.htm, строка 40,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: templates/template1/template.htm, строка 137,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: modules/core/command/controller/default.php, строка 481,
+Файл: modules/core/router/route.php, строка 193,
+Файл: index.php, строка 246",3,neo-vo.ru,http://neo-vo.ru/catalog/mnemoshemi-dion-taktil/stoiki-dlia-mnemoskhem/,91.197.67.92
+"2018-01-29 19:07:33",undefined,"<strong>Предупреждение:</strong> DOMDocument::loadXML(): Premature end of data in tag stylesheet line 3 in Entity, line: 105 в файле /home/neo-vo/neo-vo.ru/docs/modules/xsl/processor/xslt.php (строка 39)
+Стек вызовов:
+Файл: modules/xsl/processor/xslt.php, строка 39,
+Файл: modules/core/controller.php, строка 202,
+Файл: modules/shop/controller/show.php, строка 975,
+Файл: hostcmsfiles/lib/lib_47/lib_47.php, строка 35,
+Файл: modules/lib/model.php, строка 286,
+Файл: modules/template/section/lib/model.php, строка 139,
+Файл: modules/template/model.php, строка 637,
+Файл: templates/template10/template.htm, строка 40,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: templates/template1/template.htm, строка 137,
+Файл: modules/template/model.php, строка 95,
+Файл: modules/core/page.php, строка 161,
+Файл: modules/core/command/controller/default.php, строка 481,
+Файл: modules/core/router/route.php, строка 193,
+Файл: index.php, строка 246",3,neo-vo.ru,http://neo-vo.ru/catalog/mnemoshemi-dion-taktil/stoiki-dlia-mnemoskhem/,91.197.67.92

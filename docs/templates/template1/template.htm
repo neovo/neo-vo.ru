@@ -1,0 +1,370 @@
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title><?php Core_Page::instance()->showTitle()?></title>
+<meta content="text/html; charset=<?php echo SITE_CODING?>" http-equiv="Content-Type" />
+<meta name="description" content="<?php Core_Page::instance()->showDescription()?>" />
+<meta name="keywords" content="<?php Core_Page::instance()->showKeywords()?>" />
+	<link rel="canonical" href="<?=Core_Utils::getCanonicalUrl(); ?>"/>
+<meta name='yandex-verification' content='6f4ab56136dd261e' />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<?php
+Core_Page::instance()
+->css('/templates/template1/mods/highslide/highslide.css')
+->css('/hostcmsfiles/jquery/lightbox/css/jquery.lightbox.css')
+->showCss();
+?>
+<?php
+Core_Browser::check()
+?>
+<link rel="shortcut icon" href="/favicon.ico" />
+<?php
+Core_Page::instance()
+->js('/hostcmsfiles/jquery/jquery.min.js')
+->js('/hostcmsfiles/jquery/jquery.validate.min.js')
+->js('/hostcmsfiles/jquery/lightbox/js/jquery.lightbox.js')
+->js('/templates/template1/hostcms.js')
+->js('/hostcmsfiles/main.js')
+->js('/templates/template1/mods/highslide/highslide.js')
+->js('/templates/template1/mods/jquery.cycle.all.min.js')
+->js('/templates/template1/mods/jcarousel.skeleton.js')
+->js('/templates/template1/mods/jquery.jcarousel.min.js')
+->js('/templates/template1/mods/custom.js')
+->showJs();
+?>
+<script type="text/javascript">
+$(document).ready(function() {
+$('#sli').cycle({ 
+fx:      'fade', 
+speed:    3000, 
+timeout:  5000
+});
+});
+</script>
+<!--хайслайд-->
+<script type="text/javascript">
+hs.registerOverlay({
+html: '<div class="n-closebutton" onclick="return hs.close(this)" title="Close"></div>',
+position: 'top right',
+fade: 2 // fading the semi-transparent overlay looks bad in IE
+});
+hs.graphicsDir = '/templates/template1/mods/highslide/graphics/';
+hs.wrapperClassName = 'borderless';
+</script>
+<script src="/templates/template1/js/libs/jquery.bxslider.min.js"></script>
+<script src="/templates/template1/js/libs/jquery.fancybox.pack.js"></script>
+<script src="/templates/template1/js/script.js"></script>
+<link rel="stylesheet" href="/templates/template1/mods/jquery.bxslider.css">
+<link rel="stylesheet" href="/templates/template1/mods/jquery.fancybox.css">
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-70405521-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-70405521-7');
+</script>
+
+</head>
+<?php if (CURRENT_STRUCTURE_ID == 1) { ?>
+	<body class="main">
+<?php } else { ?>
+	<body>
+<?php } ?>
+<div class="wrapper">
+	<header class="header">
+	<?php
+		$Structure_Controller_Show = new Structure_Controller_Show(
+			Core_Entity::factory('Site', CURRENT_SITE)
+		);
+		$Structure_Controller_Show->xsl(Core_Entity::factory('Xsl')
+			->getByName('Верхнее'))
+			->menu(1)
+			->show()
+		;
+	?>
+	<div class="hMiddle">
+		<div class="hCenter">
+			<!-- <a href="/" class="logotype"><img src="/templates/template1/images/logo.png" alt="" /></a> //-->
+			<?php
+				if (Core::moduleIsActive('cecutient')) {
+				   $Cecutient_Controller_Show = new Cecutient_Controller_Show();
+				   $Cecutient_Controller_Show->show();
+				}
+			?>
+			<div class="hRight">
+				<div class="headerPhone"> 8&ndash;800&ndash;500&ndash;83&ndash;23 </div>
+				<a href="#callBack" class="addOrder formUp">Заказать бесплатный звонок</a>
+			</div>
+			<!-- .hRight -->
+		</div>
+		<!-- .hMiddle -->
+	</div>
+	<!-- .topLine -->
+	<div class="clear"></div>
+</header>
+<!-- .header-->
+<main class="content">
+<!--слайдшоу-->
+<?php
+$Informationsystem_Controller_Show = new Informationsystem_Controller_Show(
+Core_Entity::factory('Informationsystem', 19)
+);
+$Informationsystem_Controller_Show
+->informationsystemItems()
+->queryBuilder()
+->clearOrderBy()
+->orderBy('RAND()');
+$Informationsystem_Controller_Show
+->xsl(
+Core_Entity::factory('Xsl')->getByName('Слайдшоу')
+)
+->groupsMode('none')
+->itemsProperties(TRUE)
+->itemsForbiddenTags(array('text'))
+->group(FALSE)
+->limit(20)
+->show();
+?>
+<!--/слайдшоу-->
+<a name="here"></a>
+<!--контент-->
+<div class="cCenter clearfix">
+<?php
+Core_Page::instance()->execute();
+?>
+<div style="clear:both;"></div>		
+</div>
+<!--/контент-->
+<!--информация-->
+ <div class="pressArticles">
+<div class="cCenter clearfix nmd">
+<!--статьи-->
+<div class="columnLeft">
+<?php
+$Informationsystem_Controller_Show = new Informationsystem_Controller_Show(
+Core_Entity::factory('Informationsystem', 15)
+);
+$Informationsystem_Controller_Show
+->xsl(
+Core_Entity::factory('Xsl')->getByName('СтатьяНаГлавной')
+)
+->groupsMode('none')
+->itemsForbiddenTags(array('text'))
+->group(FALSE)
+->limit(1)
+->show();
+?>
+</div>
+<!--/статьи-->
+<!--новости-->
+<div class="columnLeft">
+<?php
+$Informationsystem_Controller_Show = new Informationsystem_Controller_Show(
+Core_Entity::factory('Informationsystem', 16)
+);
+$Informationsystem_Controller_Show
+->xsl(
+Core_Entity::factory('Xsl')->getByName('НовостиНаГлавной')
+)
+->groupsMode('none')
+->itemsForbiddenTags(array('text'))
+->group(FALSE)
+->limit(1)
+->show();
+?>
+</div>
+<!--/новости-->
+<!--новости-->
+<div class="columnLeft">
+<?php
+$Informationsystem_Controller_Show = new Informationsystem_Controller_Show(
+Core_Entity::factory('Informationsystem', 20)
+);
+$Informationsystem_Controller_Show
+->xsl(
+Core_Entity::factory('Xsl')->getByName('НовостиНаГлавной')
+)
+->groupsMode('none')
+->itemsForbiddenTags(array('text'))
+->group(FALSE)
+->limit(1)
+->show();
+?>
+</div>
+<!--/новости-->
+</div>
+</div>
+<!--/информация-->
+<!--отзывы-->
+<div class="wrapReviews">
+<div class="cCenter">
+<?php
+$Informationsystem_Controller_Show = new Informationsystem_Controller_Show(
+Core_Entity::factory('Informationsystem', 17)
+);
+$Informationsystem_Controller_Show
+->xsl(
+Core_Entity::factory('Xsl')->getByName('ОтзывыНаГлавной')
+)
+->groupsMode('none')
+->itemsForbiddenTags(array('text'))
+->group(FALSE)
+->itemsProperties(TRUE)
+->limit(20)
+->show();
+?>
+</div>
+</div>
+<!--/отзывы-->
+<!--партнеры-->
+<div class="wrapPartners">
+<div class="cCenter">
+<?php
+$Informationsystem_Controller_Show = new Informationsystem_Controller_Show(
+Core_Entity::factory('Informationsystem', 18)
+);
+$Informationsystem_Controller_Show
+->xsl(
+Core_Entity::factory('Xsl')->getByName('ПартнерыНаГлавной')
+)
+->groupsMode('none')
+->itemsForbiddenTags(array('text'))
+->group(FALSE)
+->itemsProperties(TRUE)
+->limit(90)
+->show();
+?>
+</div>
+</div>
+<!--/партнеры-->
+<!--вопрос-->
+<div class="questionBlock clerfix">
+<div class="cCenter">
+<div class="title">Остались вопросы?</div>
+<div class="wrapLink">
+ <a href="#orderAdd" class="link formUp">Задайте их нашему менеджеру</a>
+</div>
+</div>
+</div>
+<!--/вопрос-->
+</main>
+<div class="pre-footer"></div>
+<!--подвал-->
+<footer class="footer">
+<div class="fCenter clearfix">
+<div class="fmodFirst">
+<a href="#" class="logotype"><img src="/templates/template1/images/logo2.png" alt="" /></a>
+</div>
+<!--контакты-->
+<div class="fmod">
+<h3>Офисы</h3>
+<div>г. Москва<br />(499) 394-07-89</div>
+<div>г. Новосибирск<br />(383) 246-22-99</div>
+<div>г. Красноярск<br />(391) 233-32-22<br /></div>
+</div>
+<div class="fmod">
+<div>г. Астана<br /> (7172) 78-79-01<br /></div>
+<div>г. Кокшетау<br /> (7162) 33-73-51<br /></div>
+</div>
+<div class="fmod">
+<div>Единый электронный адрес:<br />info@neo-vo.ru<br /></div>
+<div>Единый бесплатный телефон:<br />8-800-500-83-23<br />
+	<br>
+	Мы в социальных сетях: <a href="https://www.instagram.com/neovorus/" target="_blank"><img alt="" >Instagram</a>, <a href="https://www.facebook.com/neovorus/" target="_blank"><img alt="" >FB</a>, <a href="https://vk.com/neovorus" target="_blank"><img alt="" >VK</a>
+			<br/>
+	</div>
+</div>
+
+
+<!--форма-->
+<div id="callBack" class="popupForm">
+<p class="cbok2">Наш менеджер свяжется с Вами в ближайшее время.</p>
+<form class="fofm2 validate" method="post">
+<input type="hidden" name="page" value="<?php Core_Page::instance()->showTitle() ?>" />
+<div class="formTitle">Заказать обратный звонок</div>
+<label for="nameQuest">Имя*:</label>
+<input type="text" name="txtname" id="nameQuest" class="required" />
+<label for="mailQuest">E-mail*:</label>
+<input type="text" name="txtemail" id="mailQuest" class="required" />
+<label for="phoneQuest">Телефон*:</label>
+<input type="text" name="txtphone" id="phoneQuest" class="required" />
+<input type="submit" value="Отправить" name="btnsend" />
+</form>
+</div>
+<!--/форма-->
+<!--форма-->
+<div id="orderAdd" class="popupForm">
+<p class="cbok">Наш менеджер свяжется с Вами в ближайшее время.</p>
+<form class="fofm validate" method="post">
+<input type="hidden" name="page" value="<?php Core_Page::instance()->showTitle() ?>" />
+<div class="formTitle">Задать вопрос менеджеру</div>
+<label for="nameQuest">Имя*:</label>
+<input type="text" name="txtname" id="nameQuest" class="required" />
+<label for="mailQuest">E-mail*:</label>
+<input type="text" name="txtemail" id="mailQuest" class="required" />
+<label for="phoneQuest">Телефон*:</label>
+<input type="text" name="txtphone" id="phoneQuest" class="required" />
+<label for="question">Вопрос*:</label>
+<textarea id="question" name="txtquestion" class="required"></textarea>
+<input type="submit" value="Отправить" name="btnsend" />
+</form>
+</div>
+<!--/форма-->
+<!--noindex--><span style="display:none;"><a href="http://hostcms.ru/" target="_blank" rel="nofollow">cms</a></span><!--/noindex-->
+
+<!--Start of Zendesk Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="https://v2.zopim.com/?5JUkWfjUgFlcJKxNmF930gisbdzkbpk0";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+</script>
+<!--End of Zendesk Chat Script-->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+(w[c] = w[c] || []).push(function() {
+try {
+w.yaCounter35261170 = new Ya.Metrika({
+id:35261170,
+clickmap:true,
+trackLinks:true,
+accurateTrackBounce:true,
+webvisor:true,
+trackHash:true
+});
+} catch(e) { }
+});
+
+var n = d.getElementsByTagName("script")[0],
+s = d.createElement("script"),
+f = function () { n.parentNode.insertBefore(s, n); };
+s.type = "text/javascript";
+s.async = true;
+s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+if (w.opera == "[object Opera]") {
+d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/35261170" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<script type="text/javascript">
+$(function() {
+	$('img#big').wrap(function() {
+		return '<a rel="imagebox" class="imagebox" href="' + $(this).attr('src') + '">' + $(this).text() + '</a>';
+	});
+	$('.imagebox').lightBox();
+});
+</script>
+<!-- <a href="/catalog/cart/?add=170" onclick="return $.addIntoCart('/catalog/cart/cart/', {@id}, 170)">
+    Добавить
+</a> //-->
+</body>
+</html>

