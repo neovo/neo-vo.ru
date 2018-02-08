@@ -249,8 +249,11 @@ hr {
 	height: 72px;
 	margin: -5px 0 -4px -92px;
 }
-.header .topLine .topLineMenu .logo  a { 
+.header .topLine .topLineMenu .logo a {
 	border: none;
+}
+.header .topLine .topLineMenu .logo-black {
+	display: none;
 }
 
 .header .hMiddle {
@@ -267,7 +270,7 @@ hr {
 
 .header .hRight {
 	display: block;
-	width: 250px;
+	width: 300px;
 	float: right;
 	margin: 19px 10px 0px 0px;
 }
@@ -582,6 +585,66 @@ hr {
 	left: -72px;
 }
 .hits .bx-controls-direction .bx-next {
+	right: -72px;
+}
+
+/* MINI-HITS */
+.mini_hits {
+	width: 756px;
+	float: right;
+}
+.mini_hits h3 {
+	font-size: 30px;
+}
+.mini_hits .bx-wrapper {
+	padding: 24px;
+}
+.mini_hits .item {
+	width: 172px;
+	padding: 0 0 0 8px;
+}
+.mini_hits .item .image {
+	width: 120px;
+	height: 120px;
+	display: flex;
+}
+.mini_hits .item .image a {
+	display: block;
+	margin: auto;
+}
+.mini_hits .item .image img {
+	display: block;
+	max-width: 120px;
+	max-height: 120px;
+}
+.mini_hits .item .name {
+	font-family: Cambria;
+	font-size: 17px;
+	line-height: 19px;
+	margin: 6px 0;
+	display: block;
+}
+.mini_hits .item .price {
+	font-family: Cambria;
+	font-size: 14px;
+	line-height: 14px;
+	margin: 6px 0;
+	display: inline-block;
+	vertical-align: middle;
+	padding: 8px 5px 5px 8px;
+	border-radius: 4px;
+	background: rgba(221,166,1,.29);
+}
+.mini_hits .item .price .currency {
+	display: inline;
+	padding: 0 2px 4px;
+	width: 10px;
+	vertical-align: middle;
+}
+.mini_hits .bx-controls-direction .bx-prev {
+	left: -72px;
+}
+.mini_hits .bx-controls-direction .bx-next {
 	right: -72px;
 }
 
@@ -1230,7 +1293,6 @@ h2 {
 
 .propValue p {
 	padding: 0;
-margin:;
 }
 
 .props .propValue {

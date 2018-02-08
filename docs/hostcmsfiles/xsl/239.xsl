@@ -16,7 +16,7 @@
 	<xsl:template match="/shop">
 		<!-- Есть товары -->
 		<xsl:if test="shop_item">
-			<div class="hits">
+			<div class="mini_hits">
 				<h3>Хиты продаж</h3>
 				<!-- Выводим товары магазина -->
 				<ul>
@@ -47,11 +47,6 @@
 					<xsl:value-of select="format-number(price, '### ##0', 'my')"/><img class="currency" src="/templates/template1/images/rr.png" alt="&#8381;" />
 				</div>
 			</xsl:if>
-			<div class="link">
-				<div class="button">
-					<a href="{url}">Характеристики и цены</a>
-				</div>
-			</div>
 		</li>
 	</xsl:template>
 </xsl:stylesheet>

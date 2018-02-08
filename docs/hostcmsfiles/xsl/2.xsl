@@ -7,6 +7,7 @@
 	<div class="hCenter">
 		<ul class="topLineMenu">
 			<li class="logo"><a href="/" class=""><img src="/templates/template1/images/logo.png" alt="" /></a></li>
+			<li class="logo-black"><a href="/" class=""><img src="/templates/template1/images/logo-black.png" alt="" /></a></li>
 			<xsl:apply-templates select="structure[show=1]" />
 		</ul>
 	</div>

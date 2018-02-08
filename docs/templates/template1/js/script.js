@@ -28,6 +28,15 @@ $(document).ready(function() {
 		moveSlides		: 1,
 		pager: false
 	});
+	$('.mini_hits ul').bxSlider({
+		slideWidth		: 180,
+		//slideHeight		: 401,
+		slideMargin		: 0,
+		minSlides		: 1,
+		maxSlides		: 3,
+		moveSlides		: 1,
+		pager: false
+	});
 
 	$(".formUp").fancybox({
 		padding		: [30, 40, 30, 40],
