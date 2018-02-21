@@ -26,6 +26,10 @@ Options +FollowSymlinks
 AddDefaultCharset Off
 
 
+<RequireAll>
+	Require all granted
+	Require not ip 5.9.41.3
+</RequireAll>
 
 <IfModule mod_php4.c>
 	php_flag magic_quotes_gpc off
