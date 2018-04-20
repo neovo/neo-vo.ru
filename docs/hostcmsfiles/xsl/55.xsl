@@ -30,7 +30,10 @@ exclude-result-prefixes="hostcms">
 <xsl:otherwise><xsl:value-of select="/shop/url"/></xsl:otherwise>
 </xsl:choose></xsl:variable>
 
-<form method="get" action="{$path}{$form_tag_url}">
+	
+	
+<form method="get" action="{$path}{$form_tag_url}" onchange="this.submit()">
+		
 <ul class="prodItems">
 <xsl:choose>
 <xsl:when test="$group = 0">
@@ -44,9 +47,44 @@ exclude-result-prefixes="hostcms">
 </h1>
 </xsl:otherwise>
 </xsl:choose>
+	
+	<xsl:if test="$group = 0">
+	<div id="catalog-filter">
+		<div class="catalog-filter">
+			<div class="filter-column">
+				<div class="filter-title">По инвалидности</div>
+				<div class="filter-list">
+					<!-- Фильтр по дополнительным свойствам товара: -->
+					<xsl:if test="count(shop_item_properties//property[filter != 0 and (type = 0 or type = 1 or type = 3 or type = 7 or type = 11) and property_dir_id = 1])">
+						<xsl:apply-templates select="shop_item_properties//property[filter != 0 and (type = 0 or type = 1 or type = 3 or type = 7 or type = 11) and property_dir_id = 1]" mode="propertyList"/>
+					</xsl:if>
+				</div>
+			</div>
+			<div class="filter-column">
+				<div class="filter-title">По локациям</div>
+				<div class="filter-list">
+					<!-- Фильтр по дополнительным свойствам товара: -->
+					<xsl:if test="count(shop_item_properties//property[filter != 0 and (type = 0 or type = 1 or type = 3 or type = 7 or type = 11) and property_dir_id = 2])">
+						<xsl:apply-templates select="shop_item_properties//property[filter != 0 and (type = 0 or type = 1 or type = 3 or type = 7 or type = 11) and property_dir_id = 2]" mode="propertyList"/>
+					</xsl:if>
+				</div>
+			</div>
+			<div class="filter-column">
+				<div class="filter-title">По сферам деятельности</div>
+				<div class="filter-list">
+					<!-- Фильтр по дополнительным свойствам товара: -->
+					<xsl:if test="count(shop_item_properties//property[filter != 0 and (type = 0 or type = 1 or type = 3 or type = 7 or type = 11) and property_dir_id = 3])">
+						<xsl:apply-templates select="shop_item_properties//property[filter != 0 and (type = 0 or type = 1 or type = 3 or type = 7 or type = 11) and property_dir_id = 3]" mode="propertyList"/>
+					</xsl:if>
+				</div>
+			</div>
+		</div>
+		<input type="hidden" name="filter" value="Применить" />
+	</div>
+	</xsl:if>
 
 <xsl:choose>
-	<xsl:when test="count(tag) = 0 and count(shop_producer) = 0 and count(//shop_group[parent_id=$group]) &gt; 0">
+	<xsl:when test="/shop/is_filter != 1 and count(tag) = 0 and count(shop_producer) = 0 and count(//shop_group[parent_id=$group]) &gt; 0">
 		<xsl:if test="$group!=609">
 			<xsl:apply-templates select=".//shop_group[parent_id=$group]"/>
 		</xsl:if>
@@ -245,122 +283,134 @@ exclude-result-prefixes="hostcms">
 
 <!-- Шаблон для фильтра по дополнительным свойствам -->
 <xsl:template match="property" mode="propertyList">
-<xsl:variable name="nodename">property_<xsl:value-of select="@id"/></xsl:variable>
-<xsl:variable name="nodename_from">property_<xsl:value-of select="@id"/>_from</xsl:variable>
-<xsl:variable name="nodename_to">property_<xsl:value-of select="@id"/>_to</xsl:variable>
+	<xsl:variable name="nodename">property_<xsl:value-of select="@id"/></xsl:variable>
+	<xsl:variable name="nodename_from">property_<xsl:value-of select="@id"/>_from</xsl:variable>
+	<xsl:variable name="nodename_to">property_<xsl:value-of select="@id"/>_to</xsl:variable>
+	
+	<xsl:value-of select="@property_dir"/>
+	
+	<div class="filterField">
+		<xsl:if test="filter != 5">
+			<legend><xsl:value-of disable-output-escaping="yes" select="name"/><xsl:text> </xsl:text></legend>
+		</xsl:if>
 
-<div class="filterField">
-
-<xsl:if test="filter != 5">
-<legend><xsl:value-of disable-output-escaping="yes" select="name"/><xsl:text> </xsl:text></legend>
-</xsl:if>
-
-<xsl:choose>
-<!-- Отображаем поле ввода -->
-<xsl:when test="filter = 1">
-<br/>
-<input type="text" name="property_{@id}">
-<xsl:if test="/shop/*[name()=$nodename] != ''">
-<xsl:attribute name="value"><xsl:value-of select="/shop/*[name()=$nodename]"/></xsl:attribute>
-</xsl:if>
-</input>
-</xsl:when>
-<!-- Отображаем список -->
-<xsl:when test="filter = 2">
-<br/>
-<select name="property_{@id}">
-<option value="0">...</option>
-<xsl:apply-templates select="list/list_item"/>
-</select>
-</xsl:when>
-<!-- Отображаем переключатели -->
-<xsl:when test="filter = 3">
-<br/>
-<div class="propertyInput">
-<input type="radio" name="property_{@id}" value="0" id="id_prop_radio_{@id}_0"></input>
-<label for="id_prop_radio_{@id}_0">Любой вариант</label>
-<xsl:apply-templates select="list/list_item"/>
-</div>
-</xsl:when>
-<!-- Отображаем флажки -->
-<xsl:when test="filter = 4">
-<div class="propertyInput">
-<xsl:apply-templates select="list/list_item"/>
-</div>
-</xsl:when>
-<!-- Отображаем флажок -->
-<xsl:when test="filter = 5">
-<input type="checkbox" name="property_{@id}" id="property_{@id}" style="padding-top:4px">
-<xsl:if test="/shop/*[name()=$nodename] != ''">
-<xsl:attribute name="checked"><xsl:value-of select="/shop/*[name()=$nodename]"/></xsl:attribute>
-</xsl:if>
-</input>
-<label for="property_{@id}">
-<xsl:value-of disable-output-escaping="yes" select="name"/><xsl:text> </xsl:text>
-</label>
-</xsl:when>
-<!-- Отображение полей "от и до" -->
-<xsl:when test="filter = 6">
-<br/>
-от: <input type="text" name="property_{@id}_from" size="2" value="{/shop/*[name()=$nodename_from]}"/> до: <input type="text" name="property_{@id}_to" size="2" value="{/shop/*[name()=$nodename_to]}"/>
-</xsl:when>
-<!-- Отображаем список с множественным выбором-->
-<xsl:when test="filter = 7">
-<br/>
-<select name="property_{@id}[]" multiple="multiple">
-<xsl:apply-templates select="list/list_item"/>
-</select>
-</xsl:when>
-</xsl:choose>
-</div>
+		<xsl:choose>
+			<!-- Отображаем поле ввода -->
+			<xsl:when test="filter = 1">
+				<br/>
+				<input type="text" name="property_{@id}">
+					<xsl:if test="/shop/*[name()=$nodename] != ''">
+						<xsl:attribute name="value"><xsl:value-of select="/shop/*[name()=$nodename]"/></xsl:attribute>
+					</xsl:if>
+				</input>
+			</xsl:when>
+			
+			<!-- Отображаем список -->
+			<xsl:when test="filter = 2">
+				<br/>
+				<select name="property_{@id}">
+					<option value="0">...</option>
+					<xsl:apply-templates select="list/list_item"/>
+				</select>
+			</xsl:when>
+			
+			<!-- Отображаем переключатели -->
+			<xsl:when test="filter = 3">
+				<br/>
+				<div class="propertyInput">
+					<input type="radio" name="property_{@id}" value="0" id="id_prop_radio_{@id}_0"></input>
+					<label for="id_prop_radio_{@id}_0">Любой вариант</label>
+					<xsl:apply-templates select="list/list_item"/>
+				</div>
+			</xsl:when>
+			
+			<!-- Отображаем флажки -->
+			<xsl:when test="filter = 4">
+				<div class="propertyInput">
+					<xsl:apply-templates select="list/list_item"/>
+				</div>
+			</xsl:when>
+			
+			<!-- Отображаем флажок -->
+			<xsl:when test="filter = 5">
+				<input type="checkbox" name="property_{@id}" id="property_{@id}" style="padding-top:4px">
+					<xsl:if test="/shop/*[name()=$nodename] != ''">
+						<xsl:attribute name="checked"><xsl:value-of select="/shop/*[name()=$nodename]"/></xsl:attribute>
+					</xsl:if>
+				</input>
+				<label for="property_{@id}">
+					<xsl:value-of disable-output-escaping="yes" select="name"/><xsl:text> </xsl:text>
+				</label>
+			</xsl:when>
+			
+			<!-- Отображение полей "от и до" -->
+			<xsl:when test="filter = 6">
+				<br/>
+				от: <input type="text" name="property_{@id}_from" size="2" value="{/shop/*[name()=$nodename_from]}"/> 
+				до: <input type="text" name="property_{@id}_to" size="2" value="{/shop/*[name()=$nodename_to]}"/>
+			</xsl:when>
+			
+			<!-- Отображаем список с множественным выбором-->
+			<xsl:when test="filter = 7">
+				<br/>
+				<select name="property_{@id}[]" multiple="multiple">
+					<xsl:apply-templates select="list/list_item"/>
+				</select>
+			</xsl:when>
+		</xsl:choose>
+	</div>
 </xsl:template>
 
 <xsl:template match="list/list_item">
-<xsl:if test="../../filter = 2">
-<!-- Отображаем список -->
-<xsl:variable name="nodename">property_<xsl:value-of select="../../@id"/></xsl:variable>
-<option value="{@id}">
-<xsl:if test="/shop/*[name()=$nodename] = @id"><xsl:attribute name="selected">selected</xsl:attribute></xsl:if>
-<xsl:value-of disable-output-escaping="yes" select="value"/>
-</option>
-</xsl:if>
-<xsl:if test="../../filter = 3">
-<!-- Отображаем переключатели -->
-<xsl:variable name="nodename">property_<xsl:value-of select="../../@id"/></xsl:variable>
-<br/>
-<input type="radio" name="property_{../../@id}" value="{@id}" id="id_property_{../../@id}_{@id}">
-<xsl:if test="/shop/*[name()=$nodename] = @id">
-<xsl:attribute name="checked">checked</xsl:attribute>
-</xsl:if>
-</input>
-<label for="id_property_{../../@id}_{@id}">
-<xsl:value-of disable-output-escaping="yes" select="value"/>
-</label>
-</xsl:if>
-<xsl:if test="../../filter = 4">
-<!-- Отображаем флажки -->
-<xsl:variable name="nodename">property_<xsl:value-of select="../../@id"/></xsl:variable>
-<br/>
-<input type="checkbox" value="{@id}" name="property_{../../@id}[]" id="property_{../../@id}_{@id}">
-<xsl:if test="/shop/*[name()=$nodename] = @id">
-<xsl:attribute name="checked">checked</xsl:attribute>
-</xsl:if>
-<label for="property_{../../@id}_{@id}">
-<xsl:value-of disable-output-escaping="yes" select="value"/>
-</label>
-</input>
-</xsl:if>
-<xsl:if test="../../filter = 7">
-<!-- Отображаем список -->
-<xsl:variable name="nodename">property_<xsl:value-of select="../../@id"/></xsl:variable>
-<option value="{@id}">
-<xsl:if test="/shop/*[name()=$nodename] = @id">
-<xsl:attribute name="selected">
-</xsl:attribute>
-</xsl:if>
-<xsl:value-of disable-output-escaping="yes" select="value"/>
-</option>
-</xsl:if>
+
+	<xsl:if test="../../filter = 2">
+		<!-- Отображаем список -->
+		<xsl:variable name="nodename">property_<xsl:value-of select="../../@id"/></xsl:variable>
+		<option value="{@id}">
+			<xsl:if test="/shop/*[name()=$nodename] = @id"><xsl:attribute name="selected">selected</xsl:attribute></xsl:if>
+			<xsl:value-of disable-output-escaping="yes" select="value"/>
+		</option>
+	</xsl:if>
+	
+	<xsl:if test="../../filter = 3">
+		<!-- Отображаем переключатели -->
+		<xsl:variable name="nodename">property_<xsl:value-of select="../../@id"/></xsl:variable>
+		<br/>
+		<input type="radio" name="property_{../../@id}" value="{@id}" id="id_property_{../../@id}_{@id}">
+			<xsl:if test="/shop/*[name()=$nodename] = @id">
+				<xsl:attribute name="checked">checked</xsl:attribute>
+			</xsl:if>
+		</input>
+		<label for="id_property_{../../@id}_{@id}">
+			<xsl:value-of disable-output-escaping="yes" select="value"/>
+		</label>
+	</xsl:if>
+	
+	<xsl:if test="../../filter = 4">
+		<!-- Отображаем флажки -->
+		<xsl:variable name="nodename">property_<xsl:value-of select="../../@id"/></xsl:variable>
+		<br/>
+		<input type="checkbox" value="{@id}" name="property_{../../@id}[]" id="property_{../../@id}_{@id}">
+			<xsl:if test="/shop/*[name()=$nodename] = @id">
+				<xsl:attribute name="checked">checked</xsl:attribute>
+			</xsl:if>
+			<label for="property_{../../@id}_{@id}">
+				<xsl:value-of disable-output-escaping="yes" select="value"/>
+			</label>
+		</input>
+	</xsl:if>
+	
+	<xsl:if test="../../filter = 7">
+		<!-- Отображаем список -->
+		<xsl:variable name="nodename">property_<xsl:value-of select="../../@id"/></xsl:variable>
+		<option value="{@id}">
+			<xsl:if test="/shop/*[name()=$nodename] = @id">
+				<xsl:attribute name="selected"></xsl:attribute>
+			</xsl:if>
+			<xsl:value-of disable-output-escaping="yes" select="value"/>
+		</option>
+	</xsl:if>
+	
 </xsl:template>
 
 <!-- Метки для товаров -->

@@ -133,6 +133,25 @@ Core_Entity::factory('Xsl')->getByName('Слайдшоу')
 <!--контент-->
 <div class="cCenter clearfix">
 <?php
+if (Core_Page::instance()->structure->path!='/') {
+echo '<div class="breadcrumbs">';
+
+// отображение хлебных крошек
+
+// Вывод строки навигации
+$Structure_Controller_Breadcrumbs = new Structure_Controller_Breadcrumbs(
+		Core_Entity::factory('Site', CURRENT_SITE)
+	);
+$Structure_Controller_Breadcrumbs
+	->xsl(
+		Core_Entity::factory('Xsl')->getByName('ХлебныеКрошки')
+	)
+	->show();
+	
+echo '</div>';
+}
+?>
+<?php
 Core_Page::instance()->execute();
 ?>
 <div style="clear:both;"></div>		
@@ -201,6 +220,7 @@ Core_Entity::factory('Xsl')->getByName('НовостиНаГлавной')
 <!--отзывы-->
 <div class="wrapReviews">
 <div class="cCenter">
+
 <?php
 $Informationsystem_Controller_Show = new Informationsystem_Controller_Show(
 Core_Entity::factory('Informationsystem', 17)
@@ -273,7 +293,7 @@ Core_Entity::factory('Xsl')->getByName('ПартнерыНаГлавной')
 <div>Единый электронный адрес:<br />info@neo-vo.ru<br /></div>
 <div>Единый бесплатный телефон:<br />8-800-500-83-23<br />
 	<br>
-	Мы в социальных сетях: <a href="https://www.instagram.com/neovorus/" target="_blank"><img alt="" >Instagram</a>, <a href="https://www.facebook.com/neovorus/" target="_blank"><img alt="" >FB</a>, <a href="https://vk.com/neovorus" target="_blank"><img alt="" >VK</a>
+	Мы в социальных сетях: <a rel="nofollow" href="https://www.instagram.com/neovorus/" target="_blank">Instagram</a>, <a rel="nofollow" href="https://www.facebook.com/neovorus/" target="_blank">FB</a>, <a rel="nofollow" href="https://vk.com/neovorus" target="_blank">VK</a>
 			<br/>
 	</div>
 </div>

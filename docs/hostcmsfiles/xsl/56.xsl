@@ -23,10 +23,15 @@ exclude-result-prefixes="hostcms">
 <!-- Получаем ID родительской группы и записываем в переменную $group -->
 <xsl:variable name="group" select="/shop/group"/>
 <div class="detailItem">
-						
-						<h1 class="title"><xsl:value-of disable-output-escaping="yes" select="name"/></h1>
-
-						
+		<xsl:choose>
+			<xsl:when test="count(property_value[tag_name='title_h1']) &gt; 0">
+					<h1 class="title"><xsl:value-of disable-output-escaping="yes" select="property_value[tag_name='title_h1']/value" /></h1>
+			</xsl:when>
+			<xsl:otherwise>
+					<h1 class="title"><xsl:value-of disable-output-escaping="yes" select="name"/></h1>
+			</xsl:otherwise>
+		</xsl:choose>
+	
 		<xsl:if test="count(associated/shop_item) &gt; 0">
 	<div>
 <div class="rekitems" style="position:absolute;margin-left: 590px;">
