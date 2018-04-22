@@ -176,7 +176,10 @@ if ($Shop_Controller_Show->item == 0)
 				->leftJoin('shop_item_properties', 'shop_items.shop_id', '=', 'shop_item_properties.shop_id')
 				->setAnd()
 				->open();
-
+			
+			$properties_total = count($aTmpProperties);
+			$properties_counter = 0;
+			
 			reset($aTmpProperties);
 			while(list(, list($oProperty, $propertyValue)) = each($aTmpProperties))
 			{
@@ -184,9 +187,9 @@ if ($Shop_Controller_Show->item == 0)
 
 				!in_array($tableName, $aTableNames) && $aTableNames[] = $tableName;
 
-				$Shop_Controller_Show->shopItems()->queryBuilder()
+				$Shop_Controller_Show->shopItems()->queryBuilder()->open()
 					->where('shop_item_properties.property_id', '=', $oProperty->id);
-
+			
 				if (!is_array($propertyValue))
 				{
 					// Для строк фильтр LIKE %...%
@@ -206,7 +209,7 @@ if ($Shop_Controller_Show->item == 0)
 
 						$Shop_Controller_Show->shopItems()->queryBuilder()
 							->where($tableName . '.value', '=', $propertyValue);
-
+						
 						$bCheckUnset && $Shop_Controller_Show->shopItems()->queryBuilder()
 							->setOr()
 							->where($tableName . '.value', 'IS', NULL)
@@ -256,12 +259,25 @@ if ($Shop_Controller_Show->item == 0)
 						->addCacheSignature("property{$oProperty->id}_from={$from}")
 						->addCacheSignature("property{$oProperty->id}_to={$to}");
 				}
+				
+				$Shop_Controller_Show->shopItems()->queryBuilder()->close();
+				
+				if($properties_counter !== $properties_total) {
+					$Shop_Controller_Show->shopItems()->queryBuilder()->setOr();
+					$properties_counter++;
+				}
 			}
-
-			$Shop_Controller_Show->shopItems()->queryBuilder()
+		
+			
+			/*$Shop_Controller_Show->shopItems()->queryBuilder()
 				->close()
 				->groupBy('shop_items.id')
-				->having(Core_Querybuilder::expression('COUNT(DISTINCT `shop_item_properties`.`property_id`)'), '=', $havingCount);
+				->having(Core_Querybuilder::expression('COUNT(DISTINCT `shop_item_properties`.`property_id`)'), '=', $havingCount);*/
+			
+			$Shop_Controller_Show->shopItems()->queryBuilder()
+				->close()
+				->groupBy('shop_items.id');
+				//->having(Core_Querybuilder::expression('COUNT(DISTINCT `shop_item_properties`.`property_id`)'), '=', $havingCount);
 
 			foreach ($aTableNames as $tableName)
 			{

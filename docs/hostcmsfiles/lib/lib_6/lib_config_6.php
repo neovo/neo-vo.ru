@@ -4,36 +4,149 @@ $oShop = Core_Entity::factory('Shop', Core_Array::get(Core_Page::instance()->lib
 
 class My_Shop_Controller_Show extends Shop_Controller_Show
 {
-protected function _groupCondition()
-{
-/*$this->_Shop_Items
-->queryBuilder()
-->where('shop_items.shop_group_id', '=', intval($this->group));
-*/
+	protected function _groupCondition()
+	{
+		/*$this->_Shop_Items
+		->queryBuilder()
+		->where('shop_items.shop_group_id', '=', intval($this->group));
+		*/
 
-if ($this->group)
-{
-$this
-->shopItems()
-->queryBuilder()
-->join('shop_groups', 'shop_groups.id', '=', 'shop_items.shop_group_id', array(
-array('AND' => array('(')),
-array('' => array('shop_groups.parent_id', '=', $this->group)),
-array('OR' => array('shop_groups.id', '=', $this->group)),
-array('' => array(')'))
-)
-);
-}
-else
-{
-$this
-->shopItems()
-->queryBuilder()
-->where('shop_items.shop_group_id', '=', 0);
-}
+		if ($this->group)
+		{
+			$this
+			->shopItems()
+			->queryBuilder()
+			->join('shop_groups', 'shop_groups.id', '=', 'shop_items.shop_group_id', array(
+				array('AND' => array('(')),
+				array('' => array('shop_groups.parent_id', '=', $this->group)),
+				array('OR' => array('shop_groups.id', '=', $this->group)),
+				array('' => array(')'))
+				)
+			);
+		}
+		else
+		{
+			
+			/*$this
+					->shopItems()
+					->queryBuilder()
+					->where('shop_items.shop_group_id', '=', 0);*/
+			
+			// Отключаем выбор модификаций
+			//!$this->_selectModifications && $this->forbidSelectModifications();
+			$get_keys = array_keys($_GET);
+			$is_filter = false;
+			foreach($get_keys as $k) {
+				if(mb_stripos($k, 'property_') !== false) {
+					$is_filter = true;
+				}
+			}
+			$this->addEntity( 
+				Core::factory('Core_Xml_Entity')->name('is_filter')->value($is_filter)
+			);
+			
+			$this->shopItems()
+					->queryBuilder()
+					->open();
 
-return $this;
-}
+			if ($this->group)
+			{
+					// если ID группы не 0, т.е. не корневая группа
+					// получаем подгруппы
+					$aSubGroupsID = $this->fillShopGroup($oShop->id, $this->group); // добавляем текущую группу в массив
+					$aSubGroupsID[] = $this->group;
+
+					$this->shopItems()
+							->queryBuilder()
+							// получаем все товары из подгрупп
+							->where('shop_items.shop_group_id', 'IN', $aSubGroupsID);
+			}
+			else
+			{
+					$this->shopItems()
+							->queryBuilder()
+							->where('shop_items.modification_id', '=', 0);
+
+					/*$this->shopItems()
+							->queryBuilder()
+							->where('shop_items.shop_group_id', '=', 0)
+							;*/
+			}
+
+			$shop_group_id = !$this->parentItem
+					? intval($this->group)
+					: 0;
+
+			// Вывод модификаций на одном уровне в списке товаров
+			if (!$this->item && $this->modificationsList)
+			{
+					$oCore_QueryBuilder_Select_Modifications = Core_QueryBuilder::select('shop_items.id')
+							->from('shop_items')
+							->where('shop_items.shop_id', '=', $oShop->id)
+							->where('shop_items.deleted', '=', 0)
+							->where('shop_items.active', '=', 1);
+
+					if ($this->group)
+					{
+							$oCore_QueryBuilder_Select_Modifications
+									->where('shop_items.shop_group_id', 'IN', $aSubGroupsID); // получаем все товары из подгрупп
+					}
+
+					// Стандартные ограничения для товаров
+					$this->_applyItemConditionsQueryBuilder($oCore_QueryBuilder_Select_Modifications);
+
+					Core_Event::notify(get_class($this) . '.onBeforeSelectModifications', $this, array($oCore_QueryBuilder_Select_Modifications));
+
+					$this->_Shop_Items
+							->queryBuilder()
+							->setOr()
+							->where('shop_items.shop_group_id', '=', 0)
+							->where('shop_items.modification_id', 'IN', $oCore_QueryBuilder_Select_Modifications);
+
+					// Совместное modificationsList + filterShortcuts
+					if ($this->filterShortcuts)
+					{
+							$oCore_QueryBuilder_Select_Shortcuts_For_Modifications = Core_QueryBuilder::select('shop_items.shortcut_id')
+									->from('shop_items')
+									->where('shop_items.shop_id', '=', $oShop->id)
+									->where('shop_items.deleted', '=', 0)
+									->where('shop_items.active', '=', 1)
+									->where('shop_items.shop_group_id', '=', $shop_group_id)
+									->where('shop_items.shortcut_id', '>', 0);
+
+							$this->_Shop_Items
+									->queryBuilder()
+									->setOr()
+									->where('shop_items.shop_group_id', '=', 0)
+									->where('shop_items.modification_id', 'IN', $oCore_QueryBuilder_Select_Shortcuts_For_Modifications);
+					}
+			}
+
+			if ($this->filterShortcuts)
+			{
+					$oCore_QueryBuilder_Select_Shortcuts = Core_QueryBuilder::select('shop_items.shortcut_id')
+							->from('shop_items')
+							->where('shop_items.deleted', '=', 0)
+							->where('shop_items.active', '=', 1)
+							->where('shop_items.shop_group_id', '=', $shop_group_id)
+							->where('shop_items.shortcut_id', '>', 0);
+
+					// Стандартные ограничения для товаров
+					$this->_applyItemConditionsQueryBuilder($oCore_QueryBuilder_Select_Shortcuts);
+
+					$this->_Shop_Items
+							->queryBuilder()
+							->setOr()
+							->where('shop_items.id', 'IN', $oCore_QueryBuilder_Select_Shortcuts);
+			}
+
+			$this->_Shop_Items
+					->queryBuilder()
+					->close();
+		}
+
+		return $this;
+	}
 }
 
 //$Shop_Controller_Show = new Shop_Controller_Show($oShop);
